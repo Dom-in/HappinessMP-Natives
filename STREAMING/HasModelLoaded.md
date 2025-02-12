@@ -1,4 +1,5 @@
 # HAS_MODEL_LOADED
+- **Side:** Client
 
 ## Declaration
 ```cpp

@@ -1,4 +1,4 @@
-# HappinesMP Natives
+# HappinessMP Natives
 
 * **How can i add sid use and examples?**
   

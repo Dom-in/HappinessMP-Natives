@@ -1,5 +1,4 @@
 # HAS_MODEL_LOADED
-- **Side:** Client
 
 ## Declaration
 ```cpp
@@ -15,11 +14,3 @@ bool HAS_MODEL_LOADED(int modelHashKey);
 
 ## Description
 Return if a model is in memory.
-
-```lua
-Game.HasModelLoaded(model)
-```
-
-```squirrel
-Game.HasModelLoaded(model);
-```

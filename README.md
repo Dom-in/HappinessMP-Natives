@@ -23,10 +23,14 @@ bool HAS_MODEL_LOADED(int modelHashKey);
 Return if a model is in memory.
 
 ```lua
-Game.HasModelLoaded(model)
+while not Game.HasModelLoaded(model) do
+    Thread.Pause(0)
+end
 ```
 
 ```squirrel
-Game.HasModelLoaded(model);
+while not Game.HasModelLoaded(model) do
+    Thread.Pause(0)
+end
 ```
 ````

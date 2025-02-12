@@ -1,4 +1,5 @@
 # GET_HASH_KEY
+- **Side:** Client
 
 ## Declaration
 ```cpp
@@ -14,3 +15,11 @@ int GET_HASH_KEY(char* string);
 
 ## Description
 Creates a hash key for the given string.
+
+```squirrel
+Game.GetHashKey("SULTANRS");
+```
+
+```lua
+Game.GetHashKey("SULTANRS")
+```

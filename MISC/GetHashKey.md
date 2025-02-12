@@ -1,4 +1,5 @@
 # GET_HASH_KEY
+- **Side:** Client
 
 ## Declaration
 ```cpp

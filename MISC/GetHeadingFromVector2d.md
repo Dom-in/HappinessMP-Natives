@@ -11,6 +11,6 @@ void GET_HEADING_FROM_VECTOR_2D(float x, float y, float* pHeading);
 - **float:** y
 
 ### Results
-- **float*:** pHeading
+- **float\*:** pHeading
 
 ## Description

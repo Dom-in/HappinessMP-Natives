@@ -7,7 +7,7 @@ void ALLOCATE_SCRIPT_TO_OBJECT(char* ScriptName, uint model, int unk, float radi
 ```
 
 ### Arguments
-- **char*:** ScriptName
+- **char\*:** ScriptName
 - **uint:** model
 - **int:** unk
 - **float:** radius

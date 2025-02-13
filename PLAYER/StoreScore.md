@@ -10,6 +10,6 @@ void STORE_SCORE(Player playerIndex, uint* value);
 - **Player:** playerIndex
 
 ### Results
-- **uint*:** value
+- **uint\*:** value
 
 ## Description

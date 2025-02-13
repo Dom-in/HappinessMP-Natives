@@ -7,7 +7,7 @@ void LOAD_ADDITIONAL_TEXT(char* textName, uint textIndex);
 ```
 
 ### Arguments
-- **char*:** textName
+- **char\*:** textName
 - **uint:** textIndex
 
 ### Results

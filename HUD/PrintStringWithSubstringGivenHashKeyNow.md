@@ -7,7 +7,7 @@ void PRINT_STRING_WITH_SUBSTRING_GIVEN_HASH_KEY_NOW(char* gxtkey0, uint gxtkey1,
 ```
 
 ### Arguments
-- **char*:** gxtkey0
+- **char\*:** gxtkey0
 - **uint:** gxtkey1
 - **int:** time
 - **int:** style

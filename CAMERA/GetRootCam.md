@@ -9,6 +9,6 @@ void GET_ROOT_CAM(Cam* rootcam);
 ### Arguments
 
 ### Results
-- **Cam*:** rootcam
+- **Cam\*:** rootcam
 
 ## Description

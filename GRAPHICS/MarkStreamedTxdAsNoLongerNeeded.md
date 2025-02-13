@@ -7,7 +7,7 @@ void MARK_STREAMED_TXD_AS_NO_LONGER_NEEDED(char* txdName);
 ```
 
 ### Arguments
-- **char*:** txdName
+- **char\*:** txdName
 
 ### Results
 

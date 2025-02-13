@@ -9,7 +9,7 @@ void GET_GAME_TIMER(int* timer);
 ### Arguments
 
 ### Results
-- **int*:** timer
+- **int\*:** timer
 
 ## Description
 Gets the current game timer in milliseconds.

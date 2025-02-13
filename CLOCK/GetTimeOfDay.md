@@ -9,7 +9,7 @@ void GET_TIME_OF_DAY(uint* hour, uint* minute);
 ### Arguments
 
 ### Results
-- **uint*:** hour
-- **uint*:** minute
+- **uint\*:** hour
+- **uint\*:** minute
 
 ## Description

@@ -8,7 +8,7 @@ void ADD_OBJECT_TO_INTERIOR_ROOM_BY_NAME(int objectIndex, char* roomName);
 
 ### Arguments
 - **int:** objectIndex
-- **char*:** roomName
+- **char\*:** roomName
 
 ### Results
 

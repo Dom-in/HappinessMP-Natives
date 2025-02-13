@@ -10,6 +10,6 @@ void GET_NETWORK_ID_FROM_OBJECT(Object obj, int* id);
 - **Object:** obj
 
 ### Results
-- **int*:** id
+- **int\*:** id
 
 ## Description

@@ -10,6 +10,6 @@ void GET_CAM_NEAR_DOF(int cam, float* dof);
 - **int:** cam
 
 ### Results
-- **float*:** dof
+- **float\*:** dof
 
 ## Description

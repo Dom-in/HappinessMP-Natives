@@ -9,6 +9,6 @@ void GET_DEBUG_CAM(int* cam);
 ### Arguments
 
 ### Results
-- **int*:** cam
+- **int\*:** cam
 
 ## Description

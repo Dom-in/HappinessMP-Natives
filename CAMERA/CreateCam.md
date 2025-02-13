@@ -10,7 +10,7 @@ void CREATE_CAM(int type, int* cameraIndex);
 - **int:** type (usually 14)
 
 ### Results
-- **int*:** cameraIndex
+- **int\*:** cameraIndex
 
 ## Description
 Create a camera of the given type.

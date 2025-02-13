@@ -8,8 +8,8 @@ void SET_CAR_ANIM_SPEED(Car car, char* animname0, char* animname1, float speed);
 
 ### Arguments
 - **Car:** car
-- **char*:** animname0
-- **char*:** animname1
+- **char\*:** animname0
+- **char\*:** animname1
 - **float:** speed
 
 ### Results

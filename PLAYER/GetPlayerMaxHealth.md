@@ -10,6 +10,6 @@ void GET_PLAYER_MAX_HEALTH(int player, int* maxhealth);
 - **int:** player
 
 ### Results
-- **int*:** maxhealth
+- **int\*:** maxhealth
 
 ## Description

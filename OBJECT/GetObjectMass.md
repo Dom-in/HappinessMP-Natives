@@ -10,6 +10,6 @@ void GET_OBJECT_MASS(Object obj, float* mass);
 - **Object:** obj
 
 ### Results
-- **float*:** mass
+- **float\*:** mass
 
 ## Description

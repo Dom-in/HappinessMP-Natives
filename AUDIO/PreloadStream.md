@@ -7,7 +7,7 @@ boolean PRELOAD_STREAM(char* name);
 ```
 
 ### Arguments
-- **char*:** name
+- **char\*:** name
 
 ### Results
 - **boolean**

@@ -9,7 +9,7 @@ void FIND_PRIMARY_POPULATION_ZONE_GROUP(int* groupparam0, int* groupparam1);
 ### Arguments
 
 ### Results
-- **int*:** groupparam0
-- **int*:** groupparam1
+- **int\*:** groupparam0
+- **int\*:** groupparam1
 
 ## Description

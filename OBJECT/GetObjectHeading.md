@@ -10,6 +10,6 @@ void GET_OBJECT_HEADING(Object obj, float* pHeading);
 - **Object:** obj
 
 ### Results
-- **float*:** pHeading
+- **float\*:** pHeading
 
 ## Description

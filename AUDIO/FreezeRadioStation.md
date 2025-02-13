@@ -7,7 +7,7 @@ void FREEZE_RADIO_STATION(char* stationName);
 ```
 
 ### Arguments
-- **char*:** stationName
+- **char\*:** stationName
 
 ### Results
 

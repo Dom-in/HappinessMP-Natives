@@ -9,7 +9,7 @@ void GET_HELP_MESSAGE_BOX_SIZE(float* x, float* y);
 ### Arguments
 
 ### Results
-- **float*:** x
-- **float*:** y
+- **float\*:** x
+- **float\*:** y
 
 ## Description

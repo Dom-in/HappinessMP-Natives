@@ -10,7 +10,7 @@ void GET_OBJECT_MODEL(int objectIndex, int* modelHashKey);
 - **int:** objectIndex
 
 ### Results
-- **int*:** modelHashKey
+- **int\*:** modelHashKey
 
 ## Description
 Get the model hash for the object.

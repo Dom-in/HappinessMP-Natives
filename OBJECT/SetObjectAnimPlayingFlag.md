@@ -8,8 +8,8 @@ void SET_OBJECT_ANIM_PLAYING_FLAG(Object obj, char* animname0, char* animname1, 
 
 ### Arguments
 - **Object:** obj
-- **char*:** animname0
-- **char*:** animname1
+- **char\*:** animname0
+- **char\*:** animname1
 - **boolean:** flag
 
 ### Results

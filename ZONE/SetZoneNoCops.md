@@ -7,7 +7,7 @@ void SET_ZONE_NO_COPS(char* name, boolean set);
 ```
 
 ### Arguments
-- **char*:** name
+- **char\*:** name
 - **boolean:** set
 
 ### Results

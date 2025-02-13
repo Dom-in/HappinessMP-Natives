@@ -8,10 +8,10 @@ void GET_CHAR_ANIM_BLEND_AMOUNT(Ped ped, char* AnimName0, char* AnimName1, float
 
 ### Arguments
 - **Ped:** ped
-- **char*:** AnimName0
-- **char*:** AnimName1
+- **char\*:** AnimName0
+- **char\*:** AnimName1
 
 ### Results
-- **float*:** amount
+- **float\*:** amount
 
 ## Description

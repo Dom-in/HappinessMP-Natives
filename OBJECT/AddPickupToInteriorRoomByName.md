@@ -8,7 +8,7 @@ void ADD_PICKUP_TO_INTERIOR_ROOM_BY_NAME(int pickupIndex, char* roomName);
 
 ### Arguments
 - **int:** pickupIndex
-- **char*:** roomName
+- **char\*:** roomName
 
 ### Results
 

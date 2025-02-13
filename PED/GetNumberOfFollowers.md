@@ -10,6 +10,6 @@ void GET_NUMBER_OF_FOLLOWERS(Ped ped, int* followers);
 - **Ped:** ped
 
 ### Results
-- **int*:** followers
+- **int\*:** followers
 
 ## Description

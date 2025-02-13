@@ -8,8 +8,8 @@ boolean GET_CHAR_ANIM_IS_EVENT(Ped ped, char* AnimName0, char* AnimName1, boolea
 
 ### Arguments
 - **Ped:** ped
-- **char*:** AnimName0
-- **char*:** AnimName1
+- **char\*:** AnimName0
+- **char\*:** AnimName1
 - **boolean:** flag
 
 ### Results

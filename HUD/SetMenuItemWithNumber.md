@@ -10,7 +10,7 @@ void SET_MENU_ITEM_WITH_NUMBER(int menuid, int item, int, char* gxtkey, int numb
 - **int:** menuid
 - **int:** item
 - **int**
-- **char*:** gxtkey
+- **char\*:** gxtkey
 - **int:** number
 
 ### Results

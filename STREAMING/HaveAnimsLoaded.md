@@ -7,7 +7,7 @@ boolean HAVE_ANIMS_LOADED(char* animName);
 ```
 
 ### Arguments
-- **char*:** animName
+- **char\*:** animName
 
 ### Results
 - **boolean**

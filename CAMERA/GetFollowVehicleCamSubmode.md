@@ -9,6 +9,6 @@ void GET_FOLLOW_VEHICLE_CAM_SUBMODE(int* mode);
 ### Arguments
 
 ### Results
-- **int*:** mode
+- **int\*:** mode
 
 ## Description

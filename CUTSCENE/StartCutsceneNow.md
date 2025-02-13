@@ -7,7 +7,7 @@ void START_CUTSCENE_NOW(char* name);
 ```
 
 ### Arguments
-- **char*:** name
+- **char\*:** name
 
 ### Results
 

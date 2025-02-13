@@ -11,7 +11,7 @@ boolean GET_PAD_PITCH_ROLL(uint padIndex, float* pPitch, float* pRoll);
 
 ### Results
 - **boolean**
-- **float*:** pPitch
-- **float*:** pRoll
+- **float\*:** pPitch
+- **float\*:** pRoll
 
 ## Description

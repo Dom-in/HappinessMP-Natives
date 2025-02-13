@@ -10,6 +10,6 @@ void GET_TRAIN_CABOOSE(Vehicle train, Vehicle* caboose);
 - **Vehicle:** train
 
 ### Results
-- **Vehicle*:** caboose
+- **Vehicle\*:** caboose
 
 ## Description

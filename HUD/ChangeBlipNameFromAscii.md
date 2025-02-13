@@ -8,7 +8,7 @@ void CHANGE_BLIP_NAME_FROM_ASCII(Blip blip, char* blipName);
 
 ### Arguments
 - **Blip:** blip
-- **char*:** blipName
+- **char\*:** blipName
 
 ### Results
 

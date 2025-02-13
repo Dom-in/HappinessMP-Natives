@@ -7,7 +7,7 @@ void NETWORK_RESTORE_GAME_CONFIG(void* gameConfig);
 ```
 
 ### Arguments
-- **void*:** gameConfig
+- **void\*:** gameConfig
 
 ### Results
 

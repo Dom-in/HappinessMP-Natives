@@ -11,7 +11,7 @@ int GET_DESTROYER_OF_NETWORK_ID(int networkIndex, int* weaponType);
 
 ### Results
 - **int:** playerIndex
-- **int*:** weaponType
+- **int\*:** weaponType
 
 ## Description
 Returns the player index of the player that destroyed the network object with the specified network ID.

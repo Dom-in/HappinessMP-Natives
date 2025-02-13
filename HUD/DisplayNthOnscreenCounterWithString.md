@@ -10,7 +10,7 @@ void DISPLAY_NTH_ONSCREEN_COUNTER_WITH_STRING(int, int, int, char* str);
 - **int**
 - **int**
 - **int**
-- **char*:** str
+- **char\*:** str
 
 ### Results
 

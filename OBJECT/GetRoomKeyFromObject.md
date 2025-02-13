@@ -10,6 +10,6 @@ void GET_ROOM_KEY_FROM_OBJECT(int objectIndex, int* roomKey);
 - **int:** objectIndex
 
 ### Results
-- **int*:** roomKey
+- **int\*:** roomKey
 
 ## Description

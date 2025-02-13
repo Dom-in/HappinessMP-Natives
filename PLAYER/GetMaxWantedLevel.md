@@ -9,6 +9,6 @@ void GET_MAX_WANTED_LEVEL(uint* pMaxWantedLevel);
 ### Arguments
 
 ### Results
-- **uint*:** pMaxWantedLevel
+- **uint\*:** pMaxWantedLevel
 
 ## Description

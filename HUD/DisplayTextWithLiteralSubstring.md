@@ -9,8 +9,8 @@ void DISPLAY_TEXT_WITH_LITERAL_SUBSTRING(float x, float y, char* textLabel, char
 ### Arguments
 - **float:** x
 - **float:** y
-- **char*:** textLabel
-- **char*:** literalString
+- **char\*:** textLabel
+- **char\*:** literalString
 - **int**
 - **int**
 

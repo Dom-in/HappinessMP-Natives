@@ -23,7 +23,7 @@ void CREATE_CAR_GENERATOR(float x, float y, float z, float heading, float maxLen
 - **int:** chanceOfLocked
 
 ### Results
-- **int*:** carGeneratorIndex
+- **int\*:** carGeneratorIndex
 
 ## Description
 Creates a car generator.

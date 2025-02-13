@@ -10,6 +10,6 @@ void GET_TRAIN_PLAYER_WOULD_ENTER(int player, int* train);
 - **int:** player
 
 ### Results
-- **int*:** train
+- **int\*:** train
 
 ## Description

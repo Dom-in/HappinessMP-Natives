@@ -7,7 +7,7 @@ boolean DOES_WEB_PAGE_EXIST(char* webaddress);
 ```
 
 ### Arguments
-- **char*:** webaddress
+- **char\*:** webaddress
 
 ### Results
 - **boolean**

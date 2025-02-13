@@ -7,7 +7,7 @@ void SET_PLAYER_PAIN_ROOT_BANK_NAME(char* name);
 ```
 
 ### Arguments
-- **char*:** name
+- **char\*:** name
 
 ### Results
 

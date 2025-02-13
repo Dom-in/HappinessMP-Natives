@@ -15,6 +15,6 @@ void GET_DISTANCE_BETWEEN_COORDS_3D(float x1, float y1, float z1, float x2, floa
 - **float:** z2
 
 ### Results
-- **float*:** pDist
+- **float\*:** pDist
 
 ## Description

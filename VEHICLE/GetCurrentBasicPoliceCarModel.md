@@ -9,6 +9,6 @@ void GET_CURRENT_BASIC_POLICE_CAR_MODEL(uint* pModel);
 ### Arguments
 
 ### Results
-- **uint*:** pModel
+- **uint\*:** pModel
 
 ## Description

@@ -11,6 +11,6 @@ void GET_SCRIPT_TASK_STATUS(Ped ped, int task, int* status);
 - **int:** task
 
 ### Results
-- **int*:** status
+- **int\*:** status
 
 ## Description

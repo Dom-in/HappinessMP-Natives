@@ -10,6 +10,6 @@ void GET_NUM_CAR_LIVERIES(Car car, int* num);
 - **Car:** car
 
 ### Results
-- **int*:** num
+- **int\*:** num
 
 ## Description

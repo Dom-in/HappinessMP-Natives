@@ -10,6 +10,6 @@ void GET_NETWORK_ID_FROM_PED(uint ped, int* networkID);
 - **uint:** ped
 
 ### Results
-- **int*:** networkID
+- **int\*:** networkID
 
 ## Description

@@ -7,7 +7,7 @@ void PRINT_NOW(char* gxtName, uint timeMS, boolean enable);
 ```
 
 ### Arguments
-- **char*:** gxtName
+- **char\*:** gxtName
 - **uint:** timeMS
 - **boolean:** enable
 

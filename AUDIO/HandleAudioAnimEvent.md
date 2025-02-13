@@ -8,7 +8,7 @@ void HANDLE_AUDIO_ANIM_EVENT(Ped ped, char* AudioAnimEventName);
 
 ### Arguments
 - **Ped:** ped
-- **char*:** AudioAnimEventName
+- **char\*:** AudioAnimEventName
 
 ### Results
 

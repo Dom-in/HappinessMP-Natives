@@ -7,7 +7,7 @@ void SET_ZONE_POPULATION_TYPE(char* zone, int poptype);
 ```
 
 ### Arguments
-- **char*:** zone
+- **char\*:** zone
 - **int:** poptype
 
 ### Results

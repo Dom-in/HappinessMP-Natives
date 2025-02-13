@@ -10,7 +10,7 @@ void GET_VEHICLE_FROM_NETWORK_ID(int networkId, int* vehicleIndex);
 - **int:** networkId
 
 ### Results
-- **int*:** vehicleIndex
+- **int\*:** vehicleIndex
 
 ## Description
 Returns the vehicle index of the vehicle with the specified network ID.

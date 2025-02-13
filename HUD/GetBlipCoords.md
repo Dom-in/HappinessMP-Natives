@@ -10,6 +10,6 @@ void GET_BLIP_COORDS(Blip blip, Vector3* pVector);
 - **Blip:** blip
 
 ### Results
-- **Vector3*:** pVector
+- **Vector3\*:** pVector
 
 ## Description

@@ -7,7 +7,7 @@ void PRINT_HELP_OVER_FRONTEND(char* gxtentry);
 ```
 
 ### Arguments
-- **char*:** gxtentry
+- **char\*:** gxtentry
 
 ### Results
 

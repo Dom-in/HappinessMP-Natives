@@ -8,7 +8,7 @@ void PLAY_SOUND_FROM_OBJECT(int sound_id, char* name, Object obj);
 
 ### Arguments
 - **int:** sound_id
-- **char*:** name
+- **char\*:** name
 - **Object:** obj
 
 ### Results

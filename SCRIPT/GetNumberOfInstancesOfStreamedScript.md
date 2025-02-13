@@ -7,7 +7,7 @@ uint GET_NUMBER_OF_INSTANCES_OF_STREAMED_SCRIPT(char* scriptName);
 ```
 
 ### Arguments
-- **char*:** scriptName
+- **char\*:** scriptName
 
 ### Results
 - **uint**

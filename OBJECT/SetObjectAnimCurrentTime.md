@@ -8,8 +8,8 @@ void SET_OBJECT_ANIM_CURRENT_TIME(Object obj, char* animname0, char* animname1, 
 
 ### Arguments
 - **Object:** obj
-- **char*:** animname0
-- **char*:** animname1
+- **char\*:** animname0
+- **char\*:** animname1
 - **float:** time
 
 ### Results

@@ -7,10 +7,10 @@ boolean STRING_TO_INT(char* str, int* intval);
 ```
 
 ### Arguments
-- **char*:** str
+- **char\*:** str
 
 ### Results
 - **boolean**
-- **int*:** intval
+- **int\*:** intval
 
 ## Description

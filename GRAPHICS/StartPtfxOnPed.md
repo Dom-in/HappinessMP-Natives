@@ -7,7 +7,7 @@ int START_PTFX_ON_PED(char* fxName, int charIndex, float posX, float posY, float
 ```
 
 ### Arguments
-- **char*:** fxName
+- **char\*:** fxName
 - **int:** charIndex
 - **float:** posX
 - **float:** posY

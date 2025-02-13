@@ -10,6 +10,6 @@ void GET_OBJECT_TURN_MASS(Object obj, float* turnmass);
 - **Object:** obj
 
 ### Results
-- **float*:** turnmass
+- **float\*:** turnmass
 
 ## Description

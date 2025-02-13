@@ -16,7 +16,7 @@ void ADD_COVER_POINT(float x, float y, float z, int, float direction, int, bool 
 - **bool:** isPriorityToPlayer
 
 ### Results
-- **int*:** coverpointIndex
+- **int\*:** coverpointIndex
 
 ## Description
 Adds a cover point in the given position to cover from direction (in degrees).

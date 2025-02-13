@@ -7,8 +7,8 @@ int GET_TEXTURE_FROM_STREAMED_TXD(char* dictionary, char* textureName);
 ```
 
 ### Arguments
-- **char*:** dictionary
-- **char*:** textureName
+- **char\*:** dictionary
+- **char\*:** textureName
 
 ### Results
 - **int**

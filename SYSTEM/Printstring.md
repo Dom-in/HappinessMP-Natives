@@ -7,7 +7,7 @@ void PRINTSTRING(char* value);
 ```
 
 ### Arguments
-- **char*:** value
+- **char\*:** value
 
 ### Results
 

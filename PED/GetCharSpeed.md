@@ -10,6 +10,6 @@ void GET_CHAR_SPEED(Ped ped, float* pValue);
 - **Ped:** ped
 
 ### Results
-- **float*:** pValue
+- **float\*:** pValue
 
 ## Description

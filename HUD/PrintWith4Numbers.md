@@ -7,7 +7,7 @@ void PRINT_WITH_4_NUMBERS(char* gxtentry, int, int, int, int, int time, int flag
 ```
 
 ### Arguments
-- **char*:** gxtentry
+- **char\*:** gxtentry
 - **int**
 - **int**
 - **int**

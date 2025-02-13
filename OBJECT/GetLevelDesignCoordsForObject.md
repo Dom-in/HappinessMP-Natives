@@ -12,8 +12,8 @@ float GET_LEVEL_DESIGN_COORDS_FOR_OBJECT(Object obj, int, float* x, float* y, fl
 
 ### Results
 - **float**
-- **float*:** x
-- **float*:** y
-- **float*:** z
+- **float\*:** x
+- **float\*:** y
+- **float\*:** z
 
 ## Description

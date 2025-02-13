@@ -13,6 +13,6 @@ void GET_OFFSET_FROM_INTERIOR_IN_WORLD_COORDS(Interior interior, float x, float 
 - **float:** z
 
 ### Results
-- **float*:** pOffset
+- **float\*:** pOffset
 
 ## Description

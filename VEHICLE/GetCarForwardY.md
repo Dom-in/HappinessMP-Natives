@@ -10,6 +10,6 @@ void GET_CAR_FORWARD_Y(Vehicle vehicle, float* pValue);
 - **Vehicle:** vehicle
 
 ### Results
-- **float*:** pValue
+- **float\*:** pValue
 
 ## Description

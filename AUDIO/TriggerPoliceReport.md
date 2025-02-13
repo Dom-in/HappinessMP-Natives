@@ -7,7 +7,7 @@ void TRIGGER_POLICE_REPORT(char* name);
 ```
 
 ### Arguments
-- **char*:** name
+- **char\*:** name
 
 ### Results
 

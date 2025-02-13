@@ -7,7 +7,7 @@ void PRINT_HELP(char* gxtName);
 ```
 
 ### Arguments
-- **char*:** gxtName
+- **char\*:** gxtName
 
 ### Results
 

@@ -8,8 +8,8 @@ void TASK_PLAY_ANIM_WITH_FLAGS_AND_START_PHASE(int charIndex, char* animName, ch
 
 ### Arguments
 - **int:** charIndex
-- **char*:** animName
-- **char*:** animDictName
+- **char\*:** animName
+- **char\*:** animDictName
 - **float:** speed (usually 8.0)
 - **int:** timeToPlay (-1 for infinite)
 - **int:** flags

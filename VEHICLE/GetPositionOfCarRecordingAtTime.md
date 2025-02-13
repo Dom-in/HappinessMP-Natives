@@ -11,6 +11,6 @@ void GET_POSITION_OF_CAR_RECORDING_AT_TIME(int CarRec, float time, float* pos);
 - **float:** time
 
 ### Results
-- **float*:** pos
+- **float\*:** pos
 
 ## Description

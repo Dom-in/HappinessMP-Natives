@@ -13,8 +13,8 @@ void GET_SPAWN_COORDINATES_FOR_CAR_NODE(int nodeId, float towardsPosX, float tow
 - **float:** towardsPosZ
 
 ### Results
-- **Vector3*:** vecReturn
-- **float*:** orientation
+- **Vector3\*:** vecReturn
+- **float\*:** orientation
 
 ## Description
 Will find the spawn coordinates for a car given a node.

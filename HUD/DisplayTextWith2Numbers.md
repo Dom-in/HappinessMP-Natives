@@ -9,7 +9,7 @@ void DISPLAY_TEXT_WITH_2_NUMBERS(float x, float y, char* gxtName, int number1, i
 ### Arguments
 - **float:** x
 - **float:** y
-- **char*:** gxtName
+- **char\*:** gxtName
 - **int:** number1
 - **int:** number2
 

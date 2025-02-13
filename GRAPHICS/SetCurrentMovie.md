@@ -7,7 +7,7 @@ void SET_CURRENT_MOVIE(char* filename);
 ```
 
 ### Arguments
-- **char*:** filename
+- **char\*:** filename
 
 ### Results
 

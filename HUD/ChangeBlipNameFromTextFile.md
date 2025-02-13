@@ -8,7 +8,7 @@ void CHANGE_BLIP_NAME_FROM_TEXT_FILE(Blip blip, char* gxtName);
 
 ### Arguments
 - **Blip:** blip
-- **char*:** gxtName
+- **char\*:** gxtName
 
 ### Results
 

@@ -14,7 +14,7 @@ void CREATE_OBJECT(int modelHashKey, float x, float y, float z, int* objectIndex
 - **bool:** registerAsNetworkObject
 
 ### Results
-- **int*:** objectIndex
+- **int\*:** objectIndex
 
 ## Description
 Create an object with an offset (from the root the base) at the given coord.

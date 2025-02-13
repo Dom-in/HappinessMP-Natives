@@ -8,7 +8,7 @@ void PLAY_SOUND(int SoundId, char* SoundName);
 
 ### Arguments
 - **int:** SoundId
-- **char*:** SoundName
+- **char\*:** SoundName
 
 ### Results
 

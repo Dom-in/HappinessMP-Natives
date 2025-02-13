@@ -7,7 +7,7 @@ boolean PRELOAD_STREAM_WITH_START_OFFSET(char* StreamName, int StartOffset);
 ```
 
 ### Arguments
-- **char*:** StreamName
+- **char\*:** StreamName
 - **int:** StartOffset
 
 ### Results

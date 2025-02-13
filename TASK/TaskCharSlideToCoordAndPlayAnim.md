@@ -13,8 +13,8 @@ void TASK_CHAR_SLIDE_TO_COORD_AND_PLAY_ANIM(int charIndex, float coordsX, float 
 - **float:** coordsZ
 - **float:** headingDegrees
 - **float:** speed
-- **char*:** animName
-- **char*:** animDictName
+- **char\*:** animName
+- **char\*:** animDictName
 - **float:** blendDelta
 - **bool:** isLooped
 - **bool:** extractForwardVelocity

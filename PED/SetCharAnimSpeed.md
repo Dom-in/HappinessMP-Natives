@@ -8,8 +8,8 @@ void SET_CHAR_ANIM_SPEED(Ped ped, char* AnimName0, char* AnimName1, float speed)
 
 ### Arguments
 - **Ped:** ped
-- **char*:** AnimName0
-- **char*:** AnimName1
+- **char\*:** AnimName0
+- **char\*:** AnimName1
 - **float:** speed
 
 ### Results

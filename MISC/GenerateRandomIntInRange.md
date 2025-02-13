@@ -11,6 +11,6 @@ void GENERATE_RANDOM_INT_IN_RANGE(uint min, uint max, uint* pValue);
 - **uint:** max
 
 ### Results
-- **uint*:** pValue
+- **uint\*:** pValue
 
 ## Description

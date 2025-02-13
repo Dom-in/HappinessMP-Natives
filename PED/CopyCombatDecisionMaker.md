@@ -10,6 +10,6 @@ void COPY_COMBAT_DECISION_MAKER(uint type, DecisionMaker* pDM);
 - **uint:** type
 
 ### Results
-- **DecisionMaker*:** pDM
+- **DecisionMaker\*:** pDM
 
 ## Description

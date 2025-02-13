@@ -14,6 +14,6 @@ void GET_PED_BONE_POSITION(Ped ped, uint bone, float x, float y, float z, Vector
 - **float:** z
 
 ### Results
-- **Vector3*:** pPosition
+- **Vector3\*:** pPosition
 
 ## Description

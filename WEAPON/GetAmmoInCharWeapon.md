@@ -11,6 +11,6 @@ void GET_AMMO_IN_CHAR_WEAPON(Ped ped, uint weapon, uint* pAmmo);
 - **uint:** weapon
 
 ### Results
-- **uint*:** pAmmo
+- **uint\*:** pAmmo
 
 ## Description

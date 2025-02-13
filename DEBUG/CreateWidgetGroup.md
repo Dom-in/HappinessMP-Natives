@@ -7,7 +7,7 @@ int CREATE_WIDGET_GROUP(char* name);
 ```
 
 ### Arguments
-- **char*:** name
+- **char\*:** name
 
 ### Results
 - **int:** widgetGroupIndex

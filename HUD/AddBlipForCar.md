@@ -10,6 +10,6 @@ void ADD_BLIP_FOR_CAR(Vehicle vehicle, Blip* pBlip);
 - **Vehicle:** vehicle
 
 ### Results
-- **Blip*:** pBlip
+- **Blip\*:** pBlip
 
 ## Description

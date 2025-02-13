@@ -13,8 +13,8 @@ boolean GET_CLOSEST_MAJOR_CAR_NODE(float x, float y, float z, float* pResX, floa
 
 ### Results
 - **boolean**
-- **float*:** pResX
-- **float*:** pResY
-- **float*:** pResZ
+- **float\*:** pResX
+- **float\*:** pResY
+- **float\*:** pResZ
 
 ## Description

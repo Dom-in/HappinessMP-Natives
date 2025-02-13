@@ -8,7 +8,7 @@ void ADD_FIRST_N_CHARACTERS_OF_STRING_TO_HTML_SCRIPT_OBJECT(int htmlobj, char* s
 
 ### Arguments
 - **int:** htmlobj
-- **char*:** str
+- **char\*:** str
 - **int:** n
 
 ### Results

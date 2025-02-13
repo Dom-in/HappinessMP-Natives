@@ -10,9 +10,9 @@ void GET_PLAYER_RGB_COLOUR(int playerIndex, int* red, int* green, int* blue);
 - **int:** playerIndex
 
 ### Results
-- **int*:** red
-- **int*:** green
-- **int*:** blue
+- **int\*:** red
+- **int\*:** green
+- **int\*:** blue
 
 ## Description
 Gets the RGB colour of the player.

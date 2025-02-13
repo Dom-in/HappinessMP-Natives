@@ -7,7 +7,7 @@ void ADD_WIDGET_FLOAT_READ_ONLY(char* name, float& variable);
 ```
 
 ### Arguments
-- **char*:** name
+- **char\*:** name
 - **float&:** variable
 
 ### Results

@@ -7,8 +7,8 @@ void PRINT_STRING_WITH_LITERAL_STRING_NOW(char* gxtName, char* text, uint timeMS
 ```
 
 ### Arguments
-- **char*:** gxtName
-- **char*:** text
+- **char\*:** gxtName
+- **char\*:** text
 - **uint:** timeMS
 - **boolean:** enable
 

@@ -14,7 +14,7 @@ void CREATE_CAR(int modelHashKey, float x, float y, float z, int* vehicleIndex, 
 - **bool:** registerAsNetworkObject
 
 ### Results
-- **int*:** vehicleIndex
+- **int\*:** vehicleIndex
 
 ## Description
 Creates a car at the specified coords.

@@ -10,7 +10,7 @@ void REPORT_CRIME(float x, float y, float z, char* name);
 - **float:** x
 - **float:** y
 - **float:** z
-- **char*:** name
+- **char\*:** name
 
 ### Results
 

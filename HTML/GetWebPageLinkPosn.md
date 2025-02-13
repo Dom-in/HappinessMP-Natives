@@ -11,7 +11,7 @@ void GET_WEB_PAGE_LINK_POSN(int htmlviewport, int linkid, float* x, float* y);
 - **int:** linkid
 
 ### Results
-- **float*:** x
-- **float*:** y
+- **float\*:** x
+- **float\*:** y
 
 ## Description

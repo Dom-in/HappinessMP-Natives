@@ -10,6 +10,6 @@ void GET_CHAR_ARMOUR(Ped ped, uint* pArmour);
 - **Ped:** ped
 
 ### Results
-- **uint*:** pArmour
+- **uint\*:** pArmour
 
 ## Description

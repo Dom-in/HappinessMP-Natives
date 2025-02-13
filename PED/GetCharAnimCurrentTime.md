@@ -8,10 +8,10 @@ void GET_CHAR_ANIM_CURRENT_TIME(Ped ped, char* animGroup, char* animName, float*
 
 ### Arguments
 - **Ped:** ped
-- **char*:** animGroup
-- **char*:** animName
+- **char\*:** animGroup
+- **char\*:** animName
 
 ### Results
-- **float*:** pValue
+- **float\*:** pValue
 
 ## Description

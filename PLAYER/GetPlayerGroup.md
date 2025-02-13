@@ -10,6 +10,6 @@ void GET_PLAYER_GROUP(Player playerIndex, Group* pGroup);
 - **Player:** playerIndex
 
 ### Results
-- **Group*:** pGroup
+- **Group\*:** pGroup
 
 ## Description

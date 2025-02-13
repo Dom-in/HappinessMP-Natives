@@ -13,6 +13,6 @@ void GET_CLOSEST_STEALABLE_OBJECT(float x, float y, float z, float radius, Objec
 - **float:** radius
 
 ### Results
-- **Object*:** obj
+- **Object\*:** obj
 
 ## Description

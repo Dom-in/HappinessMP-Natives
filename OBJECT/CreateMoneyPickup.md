@@ -14,6 +14,6 @@ void CREATE_MONEY_PICKUP(float x, float y, float z, int amount, bool permanent, 
 - **bool:** permanent
 
 ### Results
-- **int*:** pickupIndex
+- **int\*:** pickupIndex
 
 ## Description

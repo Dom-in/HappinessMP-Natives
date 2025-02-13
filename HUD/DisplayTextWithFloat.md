@@ -9,7 +9,7 @@ void DISPLAY_TEXT_WITH_FLOAT(float displayAtX, float displayAtY, char* textLabel
 ### Arguments
 - **float:** displayAtX
 - **float:** displayAtY
-- **char*:** textLabel
+- **char\*:** textLabel
 - **float:** floatToDisplay
 - **int:** numberOfDecimalPlaces
 

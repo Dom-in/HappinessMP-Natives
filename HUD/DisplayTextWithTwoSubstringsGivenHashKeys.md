@@ -9,7 +9,7 @@ void DISPLAY_TEXT_WITH_TWO_SUBSTRINGS_GIVEN_HASH_KEYS(float x, float y, char* gx
 ### Arguments
 - **float:** x
 - **float:** y
-- **char*:** gxtkey
+- **char\*:** gxtkey
 - **uint:** gxtkey0
 - **uint:** gxtkey1
 

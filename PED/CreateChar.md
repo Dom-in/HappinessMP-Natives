@@ -15,7 +15,7 @@ void CREATE_CHAR(int charType, int modelHashKey, float x, float y, float z, int*
 - **bool:** registerAsNetworkObject
 
 ### Results
-- **int*:** charIndex
+- **int\*:** charIndex
 
 ## Description
 Creates a char on foot at the specified coords.

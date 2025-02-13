@@ -7,7 +7,7 @@ void SCRIPT_ASSERT(char* errorString);
 ```
 
 ### Arguments
-- **char*:** errorString
+- **char\*:** errorString
 
 ### Results
 

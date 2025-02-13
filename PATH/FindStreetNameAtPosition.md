@@ -12,7 +12,7 @@ void FIND_STREET_NAME_AT_POSITION(float pX, float pY, float pZ, uint* strHash0, 
 - **float:** pZ
 
 ### Results
-- **uint*:** strHash0
-- **uint*:** strHash1
+- **uint\*:** strHash0
+- **uint\*:** strHash1
 
 ## Description

@@ -7,7 +7,7 @@ void PRINT_WITH_6_NUMBERS_NOW(char* gxtentry, int, int, int, int, int, int, int 
 ```
 
 ### Arguments
-- **char*:** gxtentry
+- **char\*:** gxtentry
 - **int**
 - **int**
 - **int**

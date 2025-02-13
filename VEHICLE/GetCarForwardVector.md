@@ -10,6 +10,6 @@ void GET_CAR_FORWARD_VECTOR(Car car, Vector3* vec);
 - **Car:** car
 
 ### Results
-- **Vector3*:** vec
+- **Vector3\*:** vec
 
 ## Description

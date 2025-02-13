@@ -8,10 +8,10 @@ void GET_OBJECT_ANIM_TOTAL_TIME(Object obj, char* animname0, char* animname1, fl
 
 ### Arguments
 - **Object:** obj
-- **char*:** animname0
-- **char*:** animname1
+- **char\*:** animname0
+- **char\*:** animname1
 
 ### Results
-- **float*:** time
+- **float\*:** time
 
 ## Description

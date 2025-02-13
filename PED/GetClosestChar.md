@@ -16,7 +16,7 @@ bool GET_CLOSEST_CHAR(float centreX, float centreY, float centreZ, float radius,
 
 ### Results
 - **bool**
-- **int*:** charIndex
+- **int\*:** charIndex
 
 ## Description
 Trys to get closest random char to a coord.

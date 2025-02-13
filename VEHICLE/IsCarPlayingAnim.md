@@ -8,8 +8,8 @@ boolean IS_CAR_PLAYING_ANIM(Car car, char* animname0, char* animname1);
 
 ### Arguments
 - **Car:** car
-- **char*:** animname0
-- **char*:** animname1
+- **char\*:** animname0
+- **char\*:** animname1
 
 ### Results
 - **boolean**

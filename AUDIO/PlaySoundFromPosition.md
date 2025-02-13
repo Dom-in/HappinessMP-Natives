@@ -8,7 +8,7 @@ void PLAY_SOUND_FROM_POSITION(int sound_id, char* name, float x, float y, float 
 
 ### Arguments
 - **int:** sound_id
-- **char*:** name
+- **char\*:** name
 - **float:** x
 - **float:** y
 - **float:** z

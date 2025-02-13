@@ -7,7 +7,7 @@ void FORCE_INITIAL_PLAYER_STATION(char* stationName);
 ```
 
 ### Arguments
-- **char*:** stationName
+- **char\*:** stationName
 
 ### Results
 

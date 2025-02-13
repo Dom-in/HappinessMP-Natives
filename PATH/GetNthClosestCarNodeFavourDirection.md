@@ -15,9 +15,9 @@ boolean GET_NTH_CLOSEST_CAR_NODE_FAVOUR_DIRECTION(int, float x, float y, float z
 
 ### Results
 - **boolean**
-- **float*:** pX
-- **float*:** pY
-- **float*:** pZ
-- **float*:** direction
+- **float\*:** pX
+- **float\*:** pY
+- **float\*:** pZ
+- **float\*:** direction
 
 ## Description

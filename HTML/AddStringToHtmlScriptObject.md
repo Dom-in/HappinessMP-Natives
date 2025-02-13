@@ -8,7 +8,7 @@ void ADD_STRING_TO_HTML_SCRIPT_OBJECT(int htmlobj, char* str);
 
 ### Arguments
 - **int:** htmlobj
-- **char*:** str
+- **char\*:** str
 
 ### Results
 

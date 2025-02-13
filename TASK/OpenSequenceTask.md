@@ -9,6 +9,6 @@ void OPEN_SEQUENCE_TASK(TaskSequence* pTaskSequence);
 ### Arguments
 
 ### Results
-- **TaskSequence*:** pTaskSequence
+- **TaskSequence\*:** pTaskSequence
 
 ## Description

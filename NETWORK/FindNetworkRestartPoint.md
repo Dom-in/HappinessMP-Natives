@@ -11,7 +11,7 @@ bool FIND_NETWORK_RESTART_POINT(Vector3* position, float* heading, int);
 
 ### Results
 - **bool**
-- **Vector3*:** position
-- **float*:** heading
+- **Vector3\*:** position
+- **float\*:** heading
 
 ## Description

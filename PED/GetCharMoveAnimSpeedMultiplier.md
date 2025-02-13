@@ -10,6 +10,6 @@ void GET_CHAR_MOVE_ANIM_SPEED_MULTIPLIER(Ped ped, float* multiplier);
 - **Ped:** ped
 
 ### Results
-- **float*:** multiplier
+- **float\*:** multiplier
 
 ## Description

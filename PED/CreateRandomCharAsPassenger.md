@@ -11,6 +11,6 @@ void CREATE_RANDOM_CHAR_AS_PASSENGER(Vehicle vehicle, uint seat, Ped* pPed);
 - **uint:** seat
 
 ### Results
-- **Ped*:** pPed
+- **Ped\*:** pPed
 
 ## Description

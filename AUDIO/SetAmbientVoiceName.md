@@ -8,7 +8,7 @@ void SET_AMBIENT_VOICE_NAME(Ped ped, char* name);
 
 ### Arguments
 - **Ped:** ped
-- **char*:** name
+- **char\*:** name
 
 ### Results
 

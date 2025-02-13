@@ -10,6 +10,6 @@ void GET_VEHICLE_PLAYER_WOULD_ENTER(int player, Vehicle* veh);
 - **int:** player
 
 ### Results
-- **Vehicle*:** veh
+- **Vehicle\*:** veh
 
 ## Description

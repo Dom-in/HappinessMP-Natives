@@ -7,7 +7,7 @@ void ADD_WIDGET_READ_ONLY(char* name, int& variable);
 ```
 
 ### Arguments
-- **char*:** name
+- **char\*:** name
 - **int&:** variable
 
 ### Results

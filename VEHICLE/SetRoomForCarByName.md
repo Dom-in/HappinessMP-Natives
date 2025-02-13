@@ -8,7 +8,7 @@ void SET_ROOM_FOR_CAR_BY_NAME(int vehicleIndex, char* roomName);
 
 ### Arguments
 - **int:** vehicleIndex
-- **char*:** roomName
+- **char\*:** roomName
 
 ### Results
 

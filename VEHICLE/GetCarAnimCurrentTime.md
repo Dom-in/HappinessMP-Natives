@@ -8,10 +8,10 @@ void GET_CAR_ANIM_CURRENT_TIME(Car car, char* animname0, char* animname1, float*
 
 ### Arguments
 - **Car:** car
-- **char*:** animname0
-- **char*:** animname1
+- **char\*:** animname0
+- **char\*:** animname1
 
 ### Results
-- **float*:** time
+- **float\*:** time
 
 ## Description

@@ -13,6 +13,6 @@ boolean GET_WATER_HEIGHT_NO_WAVES(float x, float y, float z, float* height);
 
 ### Results
 - **boolean**
-- **float*:** height
+- **float\*:** height
 
 ## Description

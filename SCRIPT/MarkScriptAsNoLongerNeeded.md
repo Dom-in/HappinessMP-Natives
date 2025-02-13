@@ -7,7 +7,7 @@ void MARK_SCRIPT_AS_NO_LONGER_NEEDED(char* scriptName);
 ```
 
 ### Arguments
-- **char*:** scriptName
+- **char\*:** scriptName
 
 ### Results
 

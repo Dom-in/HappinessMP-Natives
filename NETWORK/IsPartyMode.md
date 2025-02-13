@@ -6,9 +6,8 @@
 bool IS_PARTY_MODE();
 ```
 
-### Arguments
-
-### Results
+### Returns
 - **bool**
 
 ## Description
+Returns true if the current gamemode is Party Mode.

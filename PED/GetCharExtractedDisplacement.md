@@ -11,9 +11,9 @@ void GET_CHAR_EXTRACTED_DISPLACEMENT(int charIndex, bool worldspace, float* x, f
 - **bool:** worldspace
 
 ### Results
-- **float*:** x
-- **float*:** y
-- **float*:** z
+- **float\*:** x
+- **float\*:** y
+- **float\*:** z
 
 ## Description
 Gets the displacement (in meters) that will be applied to the given char this frame.

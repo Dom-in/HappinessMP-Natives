@@ -10,6 +10,6 @@ void GET_PLAYER_CHAR(Player playerIndex, Ped* pPed);
 - **Player:** playerIndex
 
 ### Results
-- **Ped*:** pPed
+- **Ped\*:** pPed
 
 ## Description

@@ -11,8 +11,8 @@ bool LOOK_AT_NEARBY_ENTITY_WITH_SPECIAL_ATTRIBUTE(int, Vector3* coords, float* d
 
 ### Results
 - **bool**
-- **Vector3*:** coords
-- **float*:** distance
+- **Vector3\*:** coords
+- **float\*:** distance
 - **int***
 - **int***
 - **float***

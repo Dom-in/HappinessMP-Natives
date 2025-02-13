@@ -7,7 +7,7 @@ void SAVE_STRING_TO_DEBUG_FILE(char* stringToSave);
 ```
 
 ### Arguments
-- **char*:** stringToSave
+- **char\*:** stringToSave
 
 ### Results
 

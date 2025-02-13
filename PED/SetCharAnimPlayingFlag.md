@@ -8,8 +8,8 @@ boolean SET_CHAR_ANIM_PLAYING_FLAG(Ped ped, char* AnimName0, char* AnimName1, bo
 
 ### Arguments
 - **Ped:** ped
-- **char*:** AnimName0
-- **char*:** AnimName1
+- **char\*:** AnimName0
+- **char\*:** AnimName1
 - **boolean:** flag
 
 ### Results

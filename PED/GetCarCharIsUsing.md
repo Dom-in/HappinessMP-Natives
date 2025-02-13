@@ -10,6 +10,6 @@ void GET_CAR_CHAR_IS_USING(Ped ped, Vehicle* pVehicle);
 - **Ped:** ped
 
 ### Results
-- **Vehicle*:** pVehicle
+- **Vehicle\*:** pVehicle
 
 ## Description

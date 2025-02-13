@@ -8,8 +8,8 @@ boolean PLAY_OBJECT_ANIM(Object obj, char* animname0, char* animname1, float unk
 
 ### Arguments
 - **Object:** obj
-- **char*:** animname0
-- **char*:** animname1
+- **char\*:** animname0
+- **char\*:** animname1
 - **float:** unk
 - **boolean:** flag0
 - **boolean:** flag1

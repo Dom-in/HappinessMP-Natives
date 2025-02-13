@@ -8,7 +8,7 @@ void SET_CONTENTS_OF_TEXT_WIDGET(int textWidgetIndex, char* newWidgetContents);
 
 ### Arguments
 - **int:** textWidgetIndex
-- **char*:** newWidgetContents
+- **char\*:** newWidgetContents
 
 ### Results
 

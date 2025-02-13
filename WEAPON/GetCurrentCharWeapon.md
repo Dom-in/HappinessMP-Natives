@@ -11,6 +11,6 @@ boolean GET_CURRENT_CHAR_WEAPON(Ped ped, uint* pWeapon);
 
 ### Results
 - **boolean**
-- **uint*:** pWeapon
+- **uint\*:** pWeapon
 
 ## Description

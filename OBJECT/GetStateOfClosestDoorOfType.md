@@ -13,7 +13,7 @@ void GET_STATE_OF_CLOSEST_DOOR_OF_TYPE(uint model, float x, float y, float z, in
 - **float:** z
 
 ### Results
-- **int*:** state
+- **int\*:** state
 - **float***
 
 ## Description

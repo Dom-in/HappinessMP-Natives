@@ -10,6 +10,6 @@ void GET_CUTSCENE_PED_POSITION(int unkped, Vector3* pos);
 - **int:** unkped
 
 ### Results
-- **Vector3*:** pos
+- **Vector3\*:** pos
 
 ## Description

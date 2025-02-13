@@ -7,7 +7,7 @@ void START_KILL_FRENZY(char* gxtname, int, int, int, int, int, int, int, boolean
 ```
 
 ### Arguments
-- **char*:** gxtname
+- **char\*:** gxtname
 - **int**
 - **int**
 - **int**

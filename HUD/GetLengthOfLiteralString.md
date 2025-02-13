@@ -7,7 +7,7 @@ uint GET_LENGTH_OF_LITERAL_STRING(char* literalString);
 ```
 
 ### Arguments
-- **char*:** literalString
+- **char\*:** literalString
 
 ### Results
 - **uint**

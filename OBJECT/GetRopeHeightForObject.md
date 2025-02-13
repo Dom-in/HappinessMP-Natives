@@ -10,6 +10,6 @@ void GET_ROPE_HEIGHT_FOR_OBJECT(Object obj, float* height);
 - **Object:** obj
 
 ### Results
-- **float*:** height
+- **float\*:** height
 
 ## Description

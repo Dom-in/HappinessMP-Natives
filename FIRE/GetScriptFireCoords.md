@@ -10,8 +10,8 @@ void GET_SCRIPT_FIRE_COORDS(int fire, float* x, float* y, float* z);
 - **int:** fire
 
 ### Results
-- **float*:** x
-- **float*:** y
-- **float*:** z
+- **float\*:** x
+- **float\*:** y
+- **float\*:** z
 
 ## Description

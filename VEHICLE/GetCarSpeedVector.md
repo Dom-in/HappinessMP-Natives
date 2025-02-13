@@ -11,7 +11,7 @@ void GET_CAR_SPEED_VECTOR(int carIndex, Vector3* pVector, bool localResult);
 - **bool:** localResult
 
 ### Results
-- **Vector3*:** pVector
+- **Vector3\*:** pVector
 
 ## Description
 Get velocity vector of an car.

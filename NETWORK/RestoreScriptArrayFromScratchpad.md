@@ -7,7 +7,7 @@ void RESTORE_SCRIPT_ARRAY_FROM_SCRATCHPAD(void* array, int size, int scriptIndex
 ```
 
 ### Arguments
-- **void*:** array
+- **void\*:** array
 - **int:** size
 - **int:** scriptIndex
 - **int:** scratchpadIndex

@@ -10,6 +10,6 @@ void GET_GROUP_LEADER(Group group, Ped* pPed);
 - **Group:** group
 
 ### Results
-- **Ped*:** pPed
+- **Ped\*:** pPed
 
 ## Description

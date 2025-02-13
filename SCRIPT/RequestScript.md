@@ -7,7 +7,7 @@ void REQUEST_SCRIPT(char* scriptName);
 ```
 
 ### Arguments
-- **char*:** scriptName
+- **char\*:** scriptName
 
 ### Results
 

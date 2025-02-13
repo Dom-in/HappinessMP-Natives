@@ -8,7 +8,7 @@ void ADD_TO_HTML_SCRIPT_OBJECT(int htmlobj, char* htmlcode);
 
 ### Arguments
 - **int:** htmlobj
-- **char*:** htmlcode
+- **char\*:** htmlcode
 
 ### Results
 

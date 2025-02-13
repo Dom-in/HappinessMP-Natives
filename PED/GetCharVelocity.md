@@ -10,9 +10,9 @@ void GET_CHAR_VELOCITY(int charIndex, float* pX, float* pY, float* pZ);
 - **int:** charIndex
 
 ### Results
-- **float*:** pX
-- **float*:** pY
-- **float*:** pZ
+- **float\*:** pX
+- **float\*:** pY
+- **float\*:** pZ
 
 ## Description
 Gets the current velocity of the char.

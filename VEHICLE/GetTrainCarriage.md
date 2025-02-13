@@ -11,6 +11,6 @@ void GET_TRAIN_CARRIAGE(Vehicle train, int num, Vehicle* carriage);
 - **int:** num
 
 ### Results
-- **Vehicle*:** carriage
+- **Vehicle\*:** carriage
 
 ## Description

@@ -14,6 +14,6 @@ void ADD_BLIP_FOR_GANG_TERRITORY(float x0, float y0, float x1, float y1, int col
 - **int:** colour
 
 ### Results
-- **int*:** blip
+- **int\*:** blip
 
 ## Description

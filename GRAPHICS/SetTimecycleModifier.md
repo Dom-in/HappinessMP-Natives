@@ -7,7 +7,7 @@ void SET_TIMECYCLE_MODIFIER(char* name);
 ```
 
 ### Arguments
-- **char*:** name
+- **char\*:** name
 
 ### Results
 

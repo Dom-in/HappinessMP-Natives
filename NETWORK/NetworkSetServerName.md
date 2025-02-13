@@ -7,7 +7,7 @@ bool NETWORK_SET_SERVER_NAME(char* name);
 ```
 
 ### Arguments
-- **char*:** name
+- **char\*:** name
 
 ### Results
 - **bool**

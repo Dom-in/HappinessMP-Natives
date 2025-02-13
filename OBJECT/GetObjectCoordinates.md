@@ -10,8 +10,8 @@ void GET_OBJECT_COORDINATES(Object obj, float* pX, float* pY, float* pZ);
 - **Object:** obj
 
 ### Results
-- **float*:** pX
-- **float*:** pY
-- **float*:** pZ
+- **float\*:** pX
+- **float\*:** pY
+- **float\*:** pZ
 
 ## Description

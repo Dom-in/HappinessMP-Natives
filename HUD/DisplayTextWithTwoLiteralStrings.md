@@ -9,9 +9,9 @@ void DISPLAY_TEXT_WITH_TWO_LITERAL_STRINGS(float x, float y, char* gxtName, char
 ### Arguments
 - **float:** x
 - **float:** y
-- **char*:** gxtName
-- **char*:** literalStr1
-- **char*:** literalStr2
+- **char\*:** gxtName
+- **char\*:** literalStr1
+- **char\*:** literalStr2
 
 ### Results
 

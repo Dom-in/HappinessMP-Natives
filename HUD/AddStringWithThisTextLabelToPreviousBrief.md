@@ -7,7 +7,7 @@ void ADD_STRING_WITH_THIS_TEXT_LABEL_TO_PREVIOUS_BRIEF(char* gxtname);
 ```
 
 ### Arguments
-- **char*:** gxtname
+- **char\*:** gxtname
 
 ### Results
 

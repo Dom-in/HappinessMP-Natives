@@ -8,8 +8,8 @@ void SAY_AMBIENT_SPEECH_WITH_VOICE(Ped ped, char* SpeechName, char* VoiceName, b
 
 ### Arguments
 - **Ped:** ped
-- **char*:** SpeechName
-- **char*:** VoiceName
+- **char\*:** SpeechName
+- **char\*:** VoiceName
 - **boolean:** flag0
 - **boolean:** flag1
 - **int:** style

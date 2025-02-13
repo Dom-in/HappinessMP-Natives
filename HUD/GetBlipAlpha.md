@@ -10,6 +10,6 @@ void GET_BLIP_ALPHA(int blip, int* alpha);
 - **int:** blip
 
 ### Results
-- **int*:** alpha
+- **int\*:** alpha
 
 ## Description

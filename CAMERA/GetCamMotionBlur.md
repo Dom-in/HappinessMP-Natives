@@ -10,6 +10,6 @@ void GET_CAM_MOTION_BLUR(int cam, int* blur);
 - **int:** cam
 
 ### Results
-- **int*:** blur
+- **int\*:** blur
 
 ## Description

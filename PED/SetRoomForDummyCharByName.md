@@ -8,7 +8,7 @@ void SET_ROOM_FOR_DUMMY_CHAR_BY_NAME(Ped ped, char* roomname);
 
 ### Arguments
 - **Ped:** ped
-- **char*:** roomname
+- **char\*:** roomname
 
 ### Results
 

@@ -8,9 +8,9 @@ void START_MOBILE_PHONE_CALL(Ped callfrom, char* callfromvoice, Ped callto, char
 
 ### Arguments
 - **Ped:** callfrom
-- **char*:** callfromvoice
+- **char\*:** callfromvoice
 - **Ped:** callto
-- **char*:** calltovoice
+- **char\*:** calltovoice
 - **boolean:** flag0
 - **boolean:** flag1
 

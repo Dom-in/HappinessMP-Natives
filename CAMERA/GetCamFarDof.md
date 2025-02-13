@@ -10,6 +10,6 @@ void GET_CAM_FAR_DOF(int cam, float* fardof);
 - **int:** cam
 
 ### Results
-- **float*:** fardof
+- **float\*:** fardof
 
 ## Description

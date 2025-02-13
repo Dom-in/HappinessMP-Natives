@@ -10,6 +10,6 @@ void GET_NUMBER_OF_PASSENGERS(Vehicle vehicle, uint* pNumPassengers);
 - **Vehicle:** vehicle
 
 ### Results
-- **uint*:** pNumPassengers
+- **uint\*:** pNumPassengers
 
 ## Description

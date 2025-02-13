@@ -10,6 +10,6 @@ void CAM_SEQUENCE_GET_PROGRESS(int, int* progress);
 - **int**
 
 ### Results
-- **int*:** progress
+- **int\*:** progress
 
 ## Description

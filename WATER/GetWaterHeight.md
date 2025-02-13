@@ -13,6 +13,6 @@ boolean GET_WATER_HEIGHT(float x, float y, float z, float* pheight);
 
 ### Results
 - **boolean**
-- **float*:** pheight
+- **float\*:** pheight
 
 ## Description

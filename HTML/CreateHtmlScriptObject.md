@@ -7,7 +7,7 @@ int CREATE_HTML_SCRIPT_OBJECT(char* objname);
 ```
 
 ### Arguments
-- **char*:** objname
+- **char\*:** objname
 
 ### Results
 - **int**

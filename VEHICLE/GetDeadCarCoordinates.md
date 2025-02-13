@@ -10,8 +10,8 @@ void GET_DEAD_CAR_COORDINATES(Vehicle vehicle, float* pX, float* pY, float* pZ);
 - **Vehicle:** vehicle
 
 ### Results
-- **float*:** pX
-- **float*:** pY
-- **float*:** pZ
+- **float\*:** pX
+- **float\*:** pY
+- **float\*:** pZ
 
 ## Description

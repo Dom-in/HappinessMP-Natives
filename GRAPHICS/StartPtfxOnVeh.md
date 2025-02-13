@@ -7,7 +7,7 @@ int START_PTFX_ON_VEH(char* fxName, int carIndex, float posX, float posY, float 
 ```
 
 ### Arguments
-- **char*:** fxName
+- **char\*:** fxName
 - **int:** carIndex
 - **float:** posX
 - **float:** posY

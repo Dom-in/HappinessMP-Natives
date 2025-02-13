@@ -9,6 +9,6 @@ void CREATE_HTML_VIEWPORT(int* htmlviewport);
 ### Arguments
 
 ### Results
-- **int*:** htmlviewport
+- **int\*:** htmlviewport
 
 ## Description

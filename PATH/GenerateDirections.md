@@ -12,7 +12,7 @@ void GENERATE_DIRECTIONS(float x, float y, float z, int* direction, Vector3*);
 - **float:** z
 
 ### Results
-- **int*:** direction
+- **int\*:** direction
 - **Vector3***
 
 ## Description

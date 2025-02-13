@@ -7,7 +7,7 @@ bool NETWORK_DID_INVITE_FRIEND(char* friendName);
 ```
 
 ### Arguments
-- **char*:** friendName
+- **char\*:** friendName
 
 ### Results
 - **bool**

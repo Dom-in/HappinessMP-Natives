@@ -14,8 +14,8 @@ bool GET_VIEWPORT_POSITION_OF_COORD(float worldPosX, float worldPosY, float worl
 
 ### Results
 - **bool**
-- **float*:** viewportPosX
-- **float*:** viewportPosY
+- **float\*:** viewportPosX
+- **float\*:** viewportPosY
 
 ## Description
 Returns a valid point on screen, if either x or y is invalid, this will return false and -1.0 for x and y.

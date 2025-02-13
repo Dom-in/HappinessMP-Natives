@@ -15,6 +15,6 @@ void GET_RANDOM_CAR_BACK_BUMPER_IN_SPHERE(float x, float y, float z, float radiu
 - **int**
 
 ### Results
-- **Vehicle*:** veh
+- **Vehicle\*:** veh
 
 ## Description

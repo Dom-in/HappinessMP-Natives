@@ -10,6 +10,6 @@ void GET_CAM_NEAR_CLIP(int cam, float* clip);
 - **int:** cam
 
 ### Results
-- **float*:** clip
+- **float\*:** clip
 
 ## Description

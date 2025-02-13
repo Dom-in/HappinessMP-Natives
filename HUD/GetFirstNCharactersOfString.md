@@ -7,7 +7,7 @@ char* GET_FIRST_N_CHARACTERS_OF_STRING(char* gxtName, uint chars);
 ```
 
 ### Arguments
-- **char*:** gxtName
+- **char\*:** gxtName
 - **uint:** chars
 
 ### Results

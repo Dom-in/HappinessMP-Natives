@@ -8,7 +8,7 @@ void TASK_START_SCENARIO_IN_PLACE(int charIndex, char* scenarioName, int timeToL
 
 ### Arguments
 - **int:** charIndex
-- **char*:** scenarioName
+- **char\*:** scenarioName
 - **int:** timeToLeave
 
 ### Results

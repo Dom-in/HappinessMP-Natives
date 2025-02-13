@@ -15,7 +15,7 @@ boolean GET_NTH_CLOSEST_WATER_NODE_WITH_HEADING(float x, float y, float z, boole
 
 ### Results
 - **boolean**
-- **Vector3*:** node
-- **float*:** heading
+- **Vector3\*:** node
+- **float\*:** heading
 
 ## Description

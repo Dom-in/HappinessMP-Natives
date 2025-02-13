@@ -7,7 +7,7 @@ boolean DOES_TEXT_LABEL_EXIST(char* gxtentry);
 ```
 
 ### Arguments
-- **char*:** gxtentry
+- **char\*:** gxtentry
 
 ### Results
 - **boolean**

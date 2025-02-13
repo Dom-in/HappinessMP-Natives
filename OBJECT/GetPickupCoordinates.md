@@ -10,8 +10,8 @@ void GET_PICKUP_COORDINATES(Pickup pickup, float* pX, float* pY, float* pZ);
 - **Pickup:** pickup
 
 ### Results
-- **float*:** pX
-- **float*:** pY
-- **float*:** pZ
+- **float\*:** pX
+- **float\*:** pY
+- **float\*:** pZ
 
 ## Description

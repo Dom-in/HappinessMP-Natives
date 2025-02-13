@@ -7,7 +7,7 @@ void PRINT_HELP_FOREVER_WITH_NUMBER(char* gxtName, int value);
 ```
 
 ### Arguments
-- **char*:** gxtName
+- **char\*:** gxtName
 - **int:** value
 
 ### Results

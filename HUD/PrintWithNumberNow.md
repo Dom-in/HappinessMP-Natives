@@ -7,7 +7,7 @@ void PRINT_WITH_NUMBER_NOW(char* gxtName, int value, uint timeMS, boolean enable
 ```
 
 ### Arguments
-- **char*:** gxtName
+- **char\*:** gxtName
 - **int:** value
 - **uint:** timeMS
 - **boolean:** enable

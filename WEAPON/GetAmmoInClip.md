@@ -12,6 +12,6 @@ boolean GET_AMMO_IN_CLIP(Ped ped, uint weapon, uint* pAmmo);
 
 ### Results
 - **boolean**
-- **uint*:** pAmmo
+- **uint\*:** pAmmo
 
 ## Description

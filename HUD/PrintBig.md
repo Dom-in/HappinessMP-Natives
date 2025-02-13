@@ -7,7 +7,7 @@ void PRINT_BIG(char* gxtName, int timeMS, int flag);
 ```
 
 ### Arguments
-- **char*:** gxtName
+- **char\*:** gxtName
 - **int:** timeMS
 - **int:** flag
 

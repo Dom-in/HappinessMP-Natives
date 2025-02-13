@@ -7,7 +7,7 @@ void NETWORK_VERIFY_USER_STRING(char* string);
 ```
 
 ### Arguments
-- **char*:** string
+- **char\*:** string
 
 ### Results
 

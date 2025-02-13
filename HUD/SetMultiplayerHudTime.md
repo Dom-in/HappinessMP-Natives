@@ -7,7 +7,7 @@ void SET_MULTIPLAYER_HUD_TIME(char* str);
 ```
 
 ### Arguments
-- **char*:** str
+- **char\*:** str
 
 ### Results
 

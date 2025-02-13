@@ -10,6 +10,6 @@ void GET_GROUP_FORMATION_SPACING(int group, float* spacing);
 - **int:** group
 
 ### Results
-- **float*:** spacing
+- **float\*:** spacing
 
 ## Description

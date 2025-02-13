@@ -10,6 +10,6 @@ void GRAB_NEARBY_OBJECT_WITH_SPECIAL_ATTRIBUTE(int attribute, Object* obj);
 - **int:** attribute
 
 ### Results
-- **Object*:** obj
+- **Object\*:** obj
 
 ## Description

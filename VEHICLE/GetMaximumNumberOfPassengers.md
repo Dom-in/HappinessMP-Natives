@@ -10,6 +10,6 @@ void GET_MAXIMUM_NUMBER_OF_PASSENGERS(Vehicle vehicle, uint* pMax);
 - **Vehicle:** vehicle
 
 ### Results
-- **uint*:** pMax
+- **uint\*:** pMax
 
 ## Description

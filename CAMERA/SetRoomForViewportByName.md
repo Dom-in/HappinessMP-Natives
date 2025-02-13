@@ -8,7 +8,7 @@ void SET_ROOM_FOR_VIEWPORT_BY_NAME(int viewportIndex, char* roomName);
 
 ### Arguments
 - **int:** viewportIndex
-- **char*:** roomName
+- **char\*:** roomName
 
 ### Results
 

@@ -7,7 +7,7 @@ boolean DOES_SCRIPT_EXIST(char* name);
 ```
 
 ### Arguments
-- **char*:** name
+- **char\*:** name
 
 ### Results
 - **boolean**

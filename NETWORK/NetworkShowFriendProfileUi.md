@@ -7,7 +7,7 @@ void NETWORK_SHOW_FRIEND_PROFILE_UI(char* friendName);
 ```
 
 ### Arguments
-- **char*:** friendName
+- **char\*:** friendName
 
 ### Results
 

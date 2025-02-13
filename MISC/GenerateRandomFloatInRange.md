@@ -11,6 +11,6 @@ void GENERATE_RANDOM_FLOAT_IN_RANGE(float min, float max, float* pValue);
 - **float:** max
 
 ### Results
-- **float*:** pValue
+- **float\*:** pValue
 
 ## Description

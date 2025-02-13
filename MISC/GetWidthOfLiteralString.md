@@ -7,7 +7,7 @@ int GET_WIDTH_OF_LITERAL_STRING(char* str);
 ```
 
 ### Arguments
-- **char*:** str
+- **char\*:** str
 
 ### Results
 - **int**

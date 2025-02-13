@@ -12,6 +12,6 @@ void ADD_BLIP_FOR_COORD(float x, float y, float z, Blip* pBlip);
 - **float:** z
 
 ### Results
-- **Blip*:** pBlip
+- **Blip\*:** pBlip
 
 ## Description

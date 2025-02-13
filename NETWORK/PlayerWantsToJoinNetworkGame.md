@@ -9,7 +9,8 @@ bool PLAYER_WANTS_TO_JOIN_NETWORK_GAME(int playerIndex);
 ### Arguments
 - **int:** playerIndex
 
-### Results
-- **bool**
+### Returns
+- **bool** 
 
 ## Description
+Returns true if a player in the slot specified by playerIndex is currently trying to join the network game.

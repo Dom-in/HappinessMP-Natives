@@ -12,8 +12,8 @@ void GET_CORRECTED_COLOUR(uint r, uint g, uint b, uint* pR, uint* pG, uint* pB);
 - **uint:** b
 
 ### Results
-- **uint*:** pR
-- **uint*:** pG
-- **uint*:** pB
+- **uint\*:** pR
+- **uint\*:** pG
+- **uint\*:** pB
 
 ## Description

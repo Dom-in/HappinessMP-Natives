@@ -9,6 +9,6 @@ void GET_GAME_VIEWPORT_ID(int* viewportid);
 ### Arguments
 
 ### Results
-- **int*:** viewportid
+- **int\*:** viewportid
 
 ## Description

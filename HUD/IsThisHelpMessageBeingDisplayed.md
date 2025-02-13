@@ -7,7 +7,7 @@ boolean IS_THIS_HELP_MESSAGE_BEING_DISPLAYED(char* gxtentry);
 ```
 
 ### Arguments
-- **char*:** gxtentry
+- **char\*:** gxtentry
 
 ### Results
 - **boolean**

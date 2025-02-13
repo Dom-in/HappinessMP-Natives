@@ -9,7 +9,7 @@ void DISPLAY_TEXT(float x, float y, char* gxtName);
 ### Arguments
 - **float:** x
 - **float:** y
-- **char*:** gxtName
+- **char\*:** gxtName
 
 ### Results
 

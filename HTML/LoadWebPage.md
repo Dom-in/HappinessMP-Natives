@@ -8,7 +8,7 @@ void LOAD_WEB_PAGE(int htmlviewport, char* webaddress);
 
 ### Arguments
 - **int:** htmlviewport
-- **char*:** webaddress
+- **char\*:** webaddress
 
 ### Results
 

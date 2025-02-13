@@ -10,6 +10,6 @@ void GET_CAM_FOV(Camera camera, float* fov);
 - **Camera:** camera
 
 ### Results
-- **float*:** fov
+- **float\*:** fov
 
 ## Description

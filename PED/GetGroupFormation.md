@@ -10,6 +10,6 @@ void GET_GROUP_FORMATION(int group, int* formation);
 - **int:** group
 
 ### Results
-- **int*:** formation
+- **int\*:** formation
 
 ## Description

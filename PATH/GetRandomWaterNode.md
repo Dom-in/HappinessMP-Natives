@@ -18,9 +18,9 @@ boolean GET_RANDOM_WATER_NODE(float x, float y, float z, float radius, boolean f
 
 ### Results
 - **boolean**
-- **float*:** pX
-- **float*:** pY
-- **float*:** pZ
-- **float*:** heading
+- **float\*:** pX
+- **float\*:** pY
+- **float\*:** pZ
+- **float\*:** heading
 
 ## Description

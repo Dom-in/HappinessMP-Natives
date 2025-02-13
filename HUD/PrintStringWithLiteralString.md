@@ -7,8 +7,8 @@ void PRINT_STRING_WITH_LITERAL_STRING(char* gxtentry, char* string, int time, in
 ```
 
 ### Arguments
-- **char*:** gxtentry
-- **char*:** string
+- **char\*:** gxtentry
+- **char\*:** string
 - **int:** time
 - **int:** flag
 

@@ -10,8 +10,8 @@ void GET_MODEL_DIMENSIONS(int modelHashKey, Vector3* returnMin, Vector3* returnM
 - **int:** modelHashKey
 
 ### Results
-- **Vector3*:** returnMin
-- **Vector3*:** returnMax
+- **Vector3\*:** returnMin
+- **Vector3\*:** returnMax
 
 ## Description
 Gets the dimensions of a model. 

@@ -9,7 +9,7 @@ void GET_MOUSE_INPUT(int* x, int* y);
 ### Arguments
 
 ### Results
-- **int*:** x
-- **int*:** y
+- **int\*:** x
+- **int\*:** y
 
 ## Description

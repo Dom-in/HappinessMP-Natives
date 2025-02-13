@@ -7,7 +7,7 @@ float GET_STRING_WIDTH_WITH_NUMBER(char* gxtName, int number);
 ```
 
 ### Arguments
-- **char*:** gxtName
+- **char\*:** gxtName
 - **int:** number
 
 ### Results

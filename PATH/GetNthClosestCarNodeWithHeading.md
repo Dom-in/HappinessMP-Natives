@@ -14,9 +14,9 @@ boolean GET_NTH_CLOSEST_CAR_NODE_WITH_HEADING(float x, float y, float z, uint no
 
 ### Results
 - **boolean**
-- **float*:** pResX
-- **float*:** pResY
-- **float*:** pResZ
-- **float*:** pHeading
+- **float\*:** pResX
+- **float\*:** pResY
+- **float\*:** pResZ
+- **float\*:** pHeading
 
 ## Description

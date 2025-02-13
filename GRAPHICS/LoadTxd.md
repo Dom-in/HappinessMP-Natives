@@ -7,7 +7,7 @@ uint LOAD_TXD(char* txdName);
 ```
 
 ### Arguments
-- **char*:** txdName
+- **char\*:** txdName
 
 ### Results
 - **uint**

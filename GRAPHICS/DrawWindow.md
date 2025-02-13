@@ -11,7 +11,7 @@ void DRAW_WINDOW(float, float, float, float, char* str, uint alpha);
 - **float**
 - **float**
 - **float**
-- **char*:** str
+- **char\*:** str
 - **uint:** alpha
 
 ### Results

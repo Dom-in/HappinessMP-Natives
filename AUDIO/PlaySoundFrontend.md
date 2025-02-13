@@ -8,7 +8,7 @@ void PLAY_SOUND_FRONTEND(int soundId, char* soundName);
 
 ### Arguments
 - **int:** soundId
-- **char*:** soundName
+- **char\*:** soundName
 
 ### Results
 

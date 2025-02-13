@@ -7,7 +7,7 @@ boolean TRIGGER_PTFX(char* name, float x, float y, float z, float, float, float,
 ```
 
 ### Arguments
-- **char*:** name
+- **char\*:** name
 - **float:** x
 - **float:** y
 - **float:** z

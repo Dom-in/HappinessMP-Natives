@@ -6,9 +6,8 @@
 int GET_HOST_ID();
 ```
 
-### Arguments
-
 ### Results
 - **int:** playerIndex
 
 ## Description
+Returns the player index of the host of the current lobby.

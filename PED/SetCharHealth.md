@@ -10,6 +10,17 @@ void SET_CHAR_HEALTH(Ped ped, uint health);
 - **Ped:** ped
 - **uint:** health
 
-### Results
-
 ## Description
+Sets character health
+
+```lua
+local playerId = Game.GetPlayerId()
+local playerChar = Game.GetPlayerChar(playerId)
+Game.SetCharHealth(playerChar, 300)
+```
+
+```squirrel
+local playerId = Game.GetPlayerId();
+local playerChar = Game.GetPlayerChar(playerId);
+Game.SetCharHealth(playerChar, 300);
+```

@@ -1,4 +1,5 @@
 # SET_CHAR_COLLISION
+- **Side:** Client
 
 ## Declaration
 ```cpp

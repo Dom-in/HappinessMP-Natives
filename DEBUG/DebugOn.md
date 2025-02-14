@@ -1,4 +1,5 @@
 # DEBUG_ON
+- **Side:** Client
 
 ## Declaration
 ```cpp

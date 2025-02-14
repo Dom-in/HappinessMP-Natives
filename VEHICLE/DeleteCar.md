@@ -1,4 +1,5 @@
 # DELETE_CAR
+- **Side:** Client
 
 ## Declaration
 ```cpp

@@ -1,4 +1,5 @@
 # SET_DEAD_PEDS_DROP_WEAPONS
+- **Side:** Client
 
 ## Declaration
 ```cpp

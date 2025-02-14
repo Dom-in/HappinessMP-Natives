@@ -1,4 +1,5 @@
 # MARK_CAR_AS_NO_LONGER_NEEDED
+- **Side:** Client
 
 ## Declaration
 ```cpp

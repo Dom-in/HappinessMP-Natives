@@ -1,4 +1,5 @@
 # SET_CAR_ON_GROUND_PROPERLY
+- **Side:** Client
 
 ## Declaration
 ```cpp

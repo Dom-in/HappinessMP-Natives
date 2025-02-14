@@ -1,4 +1,5 @@
 # CLEAR_CHAR_TASKS_IMMEDIATELY
+- **Side:** Client
 
 ## Declaration
 ```cpp

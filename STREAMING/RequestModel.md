@@ -1,4 +1,5 @@
 # REQUEST_MODEL
+- **Side:** Client
 
 ## Declaration
 ```cpp

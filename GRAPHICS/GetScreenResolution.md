@@ -1,4 +1,5 @@
 # GET_SCREEN_RESOLUTION
+- **Side:** Client
 
 ## Declaration
 ```cpp

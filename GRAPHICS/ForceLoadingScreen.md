@@ -1,4 +1,5 @@
 # FORCE_LOADING_SCREEN
+- **Side:** Client
 
 ## Declaration
 ```cpp

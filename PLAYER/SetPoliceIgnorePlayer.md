@@ -1,4 +1,5 @@
 # SET_POLICE_IGNORE_PLAYER
+- **Side:** Client
 
 ## Declaration
 ```cpp

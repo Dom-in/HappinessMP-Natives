@@ -1,4 +1,5 @@
 # SET_CHAR_HEALTH
+- **Side:** Client
 
 ## Declaration
 ```cpp

@@ -1,4 +1,5 @@
 # GET_PLAYER_CHAR
+- **Side:** Client
 
 ## Declaration
 ```cpp

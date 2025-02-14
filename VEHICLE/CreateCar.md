@@ -1,4 +1,5 @@
 # CREATE_CAR
+- **Side:** Client
 
 ## Declaration
 ```cpp

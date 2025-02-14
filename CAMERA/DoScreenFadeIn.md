@@ -1,4 +1,5 @@
 # DO_SCREEN_FADE_IN
+- **Side:** Client
 
 ## Declaration
 ```cpp

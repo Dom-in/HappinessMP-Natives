@@ -1,4 +1,5 @@
 # GET_CHAR_COORDINATES
+- **Side:** Client
 
 ## Declaration
 ```cpp

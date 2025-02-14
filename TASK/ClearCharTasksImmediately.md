@@ -9,6 +9,15 @@ void CLEAR_CHAR_TASKS_IMMEDIATELY(Ped ped);
 ### Arguments
 - **Ped:** ped
 
-### Results
-
 ## Description
+Force stops characters tasks
+
+```lua
+local playerChar = Game.GetPlayerChar(Game.GetPlayerId())
+Game.ClearCharTasksImmediately(playerChar)
+```
+
+```squirrel
+local playerChar = Game.GetPlayerChar(Game.GetPlayerId());
+Game.ClearCharTasksImmediately(playerChar);
+```

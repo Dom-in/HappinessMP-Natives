@@ -10,6 +10,15 @@ void SET_CHAR_COLLISION(Ped ped, boolean set);
 - **Ped:** ped
 - **boolean:** set
 
-### Results
-
 ## Description
+Sets character collision
+
+```lua
+local playerChar = Game.GetPlayerChar(Game.GetPlayerId())
+Game.SetCharCollision(playerChar, true)
+```
+
+```squirrel
+local playerChar = Game.GetPlayerChar(Game.GetPlayerId());
+Game.SetCharCollision(playerChar, true);
+```

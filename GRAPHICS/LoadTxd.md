@@ -1,4 +1,5 @@
 # LOAD_TXD
+- **Side:** Client
 
 ## Declaration
 ```cpp
@@ -13,3 +14,12 @@ uint LOAD_TXD(char* txdName);
 - **uint**
 
 ## Description
+Loads Textures in game
+
+```lua
+Game.LoadTxd("network")
+```
+
+```squirrel
+Game.LoadTxd("network");
+```

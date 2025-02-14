@@ -1,4 +1,5 @@
 # REMOVE_TXD
+- **Side:** Client
 
 ## Declaration
 ```cpp
@@ -9,6 +10,13 @@ void REMOVE_TXD(TextureDict txd);
 ### Arguments
 - **TextureDict:** txd
 
-### Results
-
 ## Description
+Removes Textures in game
+
+```lua
+Game.RemoveTxd('network')
+```
+
+```squirrel
+Game.RemoveTxd('network');
+```

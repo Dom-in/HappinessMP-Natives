@@ -1,4 +1,5 @@
 # REMOVE_BLIP
+- **Side:** Client
 
 ## Declaration
 ```cpp
@@ -9,7 +10,13 @@ void REMOVE_BLIP(int blipIndex);
 ### Arguments
 - **int:** blipIndex
 
-### Results
-
 ## Description
 Delete radar blip.
+
+```lua
+Game.RemoveBlip(blip)
+```
+
+```squirrel
+Game.RemoveBlip(blip);
+```

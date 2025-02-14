@@ -1,4 +1,5 @@
 # IS_MODEL_IN_CDIMAGE
+- **Side:** Client
 
 ## Declaration
 ```cpp
@@ -14,3 +15,17 @@ bool IS_MODEL_IN_CDIMAGE(int model);
 
 ## Description
 Return if model is available in one of the streaming image files.
+
+```lua
+if not Game.IsModelInCdimage(model) then
+    Chat.AddMessage("Error: Unknown model")
+    return
+end
+```
+
+```squirrel
+if (!Game.IsModelInCdimage(model)) {
+    Chat.AddMessage("Error: Unknown model");
+    return;
+}
+```

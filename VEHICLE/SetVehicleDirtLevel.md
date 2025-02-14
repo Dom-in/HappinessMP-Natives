@@ -1,4 +1,5 @@
 # SET_VEHICLE_DIRT_LEVEL
+- **Side:** Client
 
 ## Declaration
 ```cpp
@@ -10,6 +11,15 @@ void SET_VEHICLE_DIRT_LEVEL(Vehicle vehicle, float intensity);
 - **Vehicle:** vehicle
 - **float:** intensity
 
-### Results
-
 ## Description
+Sets vehicle dirt level
+
+```lua
+local currentCar = Game.GetCarCharIsUsing(Game.GetPlayerChar(Game.GetPlayerId()))
+Game.SetVehicleDirtLevel(currentCar, 0.0)
+```
+
+```squirrel
+local currentCar = Game.GetCarCharIsUsing(Game.GetPlayerChar(Game.GetPlayerId()))
+Game.SetVehicleDirtLevel(currentCar, 0.0);
+```

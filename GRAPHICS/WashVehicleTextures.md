@@ -1,4 +1,5 @@
 # WASH_VEHICLE_TEXTURES
+- **Side:** Client
 
 ## Declaration
 ```cpp
@@ -10,6 +11,15 @@ void WASH_VEHICLE_TEXTURES(Vehicle vehicle, uint intensity);
 - **Vehicle:** vehicle
 - **uint:** intensity
 
-### Results
-
 ## Description
+Sets vehicle wash level
+
+```lua
+local currentCar = Game.GetCarCharIsUsing(Game.GetPlayerChar(Game.GetPlayerId()))
+Game.WashVehicleTextures(currentCar, 255)
+```
+
+```squirrel
+local currentCar = Game.GetCarCharIsUsing(Game.GetPlayerChar(Game.GetPlayerId()))
+Game.WashVehicleTextures(currentCar, 255);
+```

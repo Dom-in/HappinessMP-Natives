@@ -1,4 +1,5 @@
 # APPLY_WANTED_LEVEL_CHANGE_NOW
+- **Side:** Client
 
 ## Declaration
 ```cpp
@@ -9,6 +10,15 @@ void APPLY_WANTED_LEVEL_CHANGE_NOW(Player playerIndex);
 ### Arguments
 - **Player:** playerIndex
 
-### Results
-
 ## Description
+Force sets wanted level on player
+
+```lua
+local playerId = Game.GetPlayerId()
+Game.ApplyWantedLevelChangeNow(playerId)
+```
+
+```squirrel
+local playerId = Game.GetPlayerId();
+Game.ApplyWantedLevelChangeNow(playerId);
+```

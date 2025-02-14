@@ -1,9 +1,10 @@
 # CREATE_OBJECT
+- **Side:** Client
 
 ## Declaration
 ```cpp
 // 0x4DE152A0
-void CREATE_OBJECT(int modelHashKey, float x, float y, float z, int* objectIndex, bool registerAsNetworkObject);
+void CREATE_OBJECT(int modelHashKey, float x, float y, float z, bool registerAsNetworkObject);
 ```
 
 ### Arguments
@@ -18,3 +19,11 @@ void CREATE_OBJECT(int modelHashKey, float x, float y, float z, int* objectIndex
 
 ## Description
 Create an object with an offset (from the root the base) at the given coord.
+
+```lua
+Game.CreateObject(0x2718C626, -22, 22, 22, true)
+```
+
+```squirrel
+Game.CreateObject(0x2718C626, -22, 22, 22, true);
+```

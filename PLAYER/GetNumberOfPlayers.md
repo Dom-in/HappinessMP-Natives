@@ -6,9 +6,16 @@
 uint GET_NUMBER_OF_PLAYERS();
 ```
 
-### Arguments
-
 ### Results
 - **uint**
 
 ## Description
+Get number on players in session
+
+```lua
+Game.GetNumberOfPlayers()
+```
+
+```squirrel
+Game.GetNumberOfPlayers();
+```

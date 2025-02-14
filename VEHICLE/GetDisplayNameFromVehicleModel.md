@@ -1,4 +1,5 @@
 # GET_DISPLAY_NAME_FROM_VEHICLE_MODEL
+- **Side:** Client
 
 ## Declaration
 ```cpp
@@ -14,3 +15,13 @@ char* GET_DISPLAY_NAME_FROM_VEHICLE_MODEL(int modelHashKey);
 
 ## Description
 Gets the the model name of the vehicle.
+
+```lua
+local currentCar = Game.GetCarCharIsUsing(Game.GetPlayerChar(Game.GetPlayerId()))
+Game.GetDisplayNameFromVehicleModel(currentCar)
+```
+
+```squirrel
+local currentCar = Game.GetCarCharIsUsing(Game.GetPlayerChar(Game.GetPlayerId()));
+Game.GetDisplayNameFromVehicleModel(currentCar);
+```

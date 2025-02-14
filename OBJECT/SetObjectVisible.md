@@ -1,4 +1,5 @@
 # SET_OBJECT_VISIBLE
+- **Side:** Client
 
 ## Declaration
 ```cpp
@@ -10,6 +11,13 @@ void SET_OBJECT_VISIBLE(Object obj, boolean value);
 - **Object:** obj
 - **boolean:** value
 
-### Results
-
 ## Description
+Sets object invisible/visible
+
+```lua
+Game.SetObjectVisible(objs, true)
+```
+
+```squirrel
+Game.SetObjectVisible(objs, true);
+```

@@ -26,9 +26,8 @@ Game.SetCarOnGroundProperly(car)
 
 ```squirrel
 local model = Game.GetHashKey('SULTANRS');
-local player = Game.GetPlayerChar(Game.GetPlayerId());
-local x, y, z = Game.GetCharCoordinates(player);
-local heading = Game.GetCharHeading(player);
+local x, y, z = Game.GetCharCoordinates(Game.GetPlayerChar(Game.GetPlayerId()));
+local heading = Game.GetCharHeading(Game.GetPlayerChar(Game.GetPlayerId()));
 local car = Game.CreateCar(model, x, y, z, true);
 Game.SetCarOnGroundProperly(car);
 ```

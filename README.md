@@ -1,6 +1,9 @@
 # HappinessMP Natives
-
-* **How can i add sid use and examples?**
+- **How many natives got there meaning?**
+```lua
+As of now the statistics are 23/3027
+```
+- **How can i add sid use and examples?**
   
 This is how we do it :)
 ````md

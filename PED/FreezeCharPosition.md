@@ -1,4 +1,5 @@
 # FREEZE_CHAR_POSITION
+- **Side:** Client
 
 ## Declaration
 ```cpp
@@ -10,6 +11,17 @@ void FREEZE_CHAR_POSITION(Ped ped, boolean frozen);
 - **Ped:** ped
 - **boolean:** frozen
 
-### Results
-
 ## Description
+Freezes Character In Position they are in
+
+```lua
+local playerId = Game.GetPlayerId()
+local playerChar = Game.GetPlayerChar(playerId)
+Game.FreezeCharPosition(playerChar, true)
+```
+
+```squirrel
+local playerId = Game.GetPlayerId();
+local playerChar = Game.GetPlayerChar(playerId);
+Game.FreezeCharPosition(playerChar, true);
+```

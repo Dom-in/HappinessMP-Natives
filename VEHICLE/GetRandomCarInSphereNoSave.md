@@ -15,6 +15,6 @@ void GET_RANDOM_CAR_IN_SPHERE_NO_SAVE(float x, float y, float z, float radius, u
 - **boolean:** flag
 
 ### Results
-- **Car\*:** car
+- **Car*:** car
 
 ## Description

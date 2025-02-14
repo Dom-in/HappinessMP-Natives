@@ -6,9 +6,16 @@
 uint GET_PLAYER_ID();
 ```
 
-### Arguments
-
 ### Results
 - **uint**
 
 ## Description
+Allows you to get player local id
+
+```lua
+Game.GetPlayerId()
+```
+
+```squirrel
+Game.GetPlayerId();
+```

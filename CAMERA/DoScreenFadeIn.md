@@ -9,7 +9,13 @@ void DO_SCREEN_FADE_IN(int timeMS);
 ### Arguments
 - **int:** timeMS
 
-### Results
-
 ## Description
 Fade in the main viewport with fade from black.
+
+```lua
+Game.DoScreenFadeIn(500)
+```
+
+```squirrel
+Game.DoScreenFadeIn(500);
+```

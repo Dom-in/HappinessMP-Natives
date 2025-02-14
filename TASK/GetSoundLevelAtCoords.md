@@ -13,6 +13,6 @@ void GET_SOUND_LEVEL_AT_COORDS(Ped ped, float x, float y, float z, int* level);
 - **float:** z
 
 ### Results
-- **int\*:** level
+- **int*:** level
 
 ## Description

@@ -10,8 +10,8 @@ void GET_CAM_ROT(Camera camera, float* angleX, float* angleY, float* angleZ);
 - **Camera:** camera
 
 ### Results
-- **float\*:** angleX
-- **float\*:** angleY
-- **float\*:** angleZ
+- **float*:** angleX
+- **float*:** angleY
+- **float*:** angleZ
 
 ## Description

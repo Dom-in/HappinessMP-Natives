@@ -9,7 +9,7 @@ void DISPLAY_TEXT_WITH_3_NUMBERS(float x, float y, char* gxtentry, int, int, int
 ### Arguments
 - **float:** x
 - **float:** y
-- **char\*:** gxtentry
+- **char*:** gxtentry
 - **int**
 - **int**
 - **int**

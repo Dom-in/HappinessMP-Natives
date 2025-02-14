@@ -10,6 +10,6 @@ char* NETWORK_GET_FRIEND_NAME(int friendIndex);
 - **int:** friendIndex
 
 ### Results
-- **char\*:** friendName
+- **char*:** friendName
 
 ## Description

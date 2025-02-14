@@ -8,7 +8,7 @@ void UNOBFUSCATE_INT_ARRAY(int, void* array);
 
 ### Arguments
 - **int**
-- **void\*:** array
+- **void*:** array
 
 ### Results
 

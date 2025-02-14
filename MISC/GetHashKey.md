@@ -8,7 +8,7 @@ int GET_HASH_KEY(char* string);
 ```
 
 ### Arguments
-- **char\*:** string
+- **char*:** string
 
 ### Results
 - **int**

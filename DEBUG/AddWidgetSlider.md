@@ -7,7 +7,7 @@ void ADD_WIDGET_SLIDER(char* name, int& variable, int min, int max, int sliderSt
 ```
 
 ### Arguments
-- **char\*:** name
+- **char*:** name
 - **int&:** variable
 - **int:** min
 - **int:** max

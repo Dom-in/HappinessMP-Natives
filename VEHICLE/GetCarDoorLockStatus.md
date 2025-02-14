@@ -10,6 +10,6 @@ void GET_CAR_DOOR_LOCK_STATUS(Vehicle vehicle, uint* pValue);
 - **Vehicle:** vehicle
 
 ### Results
-- **uint\*:** pValue
+- **uint*:** pValue
 
 ## Description

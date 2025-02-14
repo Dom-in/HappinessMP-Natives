@@ -7,7 +7,7 @@ void PLAY_AUDIO_EVENT_FROM_VEHICLE(char* name, Vehicle veh);
 ```
 
 ### Arguments
-- **char\*:** name
+- **char*:** name
 - **Vehicle:** veh
 
 ### Results

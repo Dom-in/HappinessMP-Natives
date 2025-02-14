@@ -11,6 +11,6 @@ void GET_DOOR_ANGLE_RATIO(Vehicle vehicle, uint door, float* pAngleRatio);
 - **uint:** door
 
 ### Results
-- **float\*:** pAngleRatio
+- **float*:** pAngleRatio
 
 ## Description

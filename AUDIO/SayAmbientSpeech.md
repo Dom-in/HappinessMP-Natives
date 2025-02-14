@@ -8,7 +8,7 @@ void SAY_AMBIENT_SPEECH(Ped ped, char* phraseName, boolean flag0, boolean flag1,
 
 ### Arguments
 - **Ped:** ped
-- **char\*:** phraseName
+- **char*:** phraseName
 - **boolean:** flag0
 - **boolean:** flag1
 - **int:** style

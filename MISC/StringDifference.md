@@ -7,8 +7,8 @@ int STRING_DIFFERENCE(char* str0, char* str1);
 ```
 
 ### Arguments
-- **char\*:** str0
-- **char\*:** str1
+- **char*:** str0
+- **char*:** str1
 
 ### Results
 - **int**

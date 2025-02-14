@@ -7,7 +7,7 @@ bool NETWORK_IS_FRIEND_IN_SAME_TITLE(char* friendName);
 ```
 
 ### Arguments
-- **char\*:** friendName
+- **char*:** friendName
 
 ### Results
 - **bool**

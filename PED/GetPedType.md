@@ -10,6 +10,6 @@ void GET_PED_TYPE(Ped ped, uint* pType);
 - **Ped:** ped
 
 ### Results
-- **uint\*:** pType
+- **uint*:** pType
 
 ## Description

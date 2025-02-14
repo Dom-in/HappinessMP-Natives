@@ -9,6 +9,13 @@ void DELETE_CAR(Vehicle& pVehicle);
 ### Arguments
 - **Vehicle&:** pVehicle
 
-### Results
-
 ## Description
+Deletes vehicle from the map
+
+```lua
+Game.DeleteCar(vehicle)
+```
+
+```squirrel
+Game.DeleteCar(vehicle);
+```

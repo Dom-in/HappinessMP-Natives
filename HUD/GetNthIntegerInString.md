@@ -7,7 +7,7 @@ char* GET_NTH_INTEGER_IN_STRING(char* gxtName, uint index);
 ```
 
 ### Arguments
-- **char\*:** gxtName
+- **char*:** gxtName
 - **uint:** index
 
 ### Results

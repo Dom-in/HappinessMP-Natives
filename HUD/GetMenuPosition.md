@@ -10,7 +10,7 @@ void GET_MENU_POSITION(int menuid, float* x, float* y);
 - **int:** menuid
 
 ### Results
-- **float\*:** x
-- **float\*:** y
+- **float*:** x
+- **float*:** y
 
 ## Description

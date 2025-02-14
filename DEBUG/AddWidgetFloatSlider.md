@@ -7,7 +7,7 @@ void ADD_WIDGET_FLOAT_SLIDER(char* name, float& variable, float min, float max, 
 ```
 
 ### Arguments
-- **char\*:** name
+- **char*:** name
 - **float&:** variable
 - **float:** min
 - **float:** max

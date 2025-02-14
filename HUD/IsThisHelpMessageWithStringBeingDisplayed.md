@@ -7,8 +7,8 @@ boolean IS_THIS_HELP_MESSAGE_WITH_STRING_BEING_DISPLAYED(char* gxtentry, char* s
 ```
 
 ### Arguments
-- **char\*:** gxtentry
-- **char\*:** str
+- **char*:** gxtentry
+- **char*:** str
 
 ### Results
 - **boolean**

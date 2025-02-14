@@ -10,6 +10,6 @@ void GET_NUM_CAR_COLOURS(Vehicle vehicle, uint* pNumColours);
 - **Vehicle:** vehicle
 
 ### Results
-- **uint\*:** pNumColours
+- **uint*:** pNumColours
 
 ## Description

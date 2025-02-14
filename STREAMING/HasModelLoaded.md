@@ -23,7 +23,7 @@ end
 ```
 
 ```squirrel
-while not Game.HasModelLoaded(model) do
-    Thread.Pause(0)
-end
+while (!Game.HasModelLoaded(model)) {
+    Thread.Pause(0);
+}
 ```

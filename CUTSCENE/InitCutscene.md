@@ -7,7 +7,7 @@ void INIT_CUTSCENE(char* name);
 ```
 
 ### Arguments
-- **char\*:** name
+- **char*:** name
 
 ### Results
 

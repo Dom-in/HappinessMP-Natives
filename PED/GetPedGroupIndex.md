@@ -10,6 +10,6 @@ void GET_PED_GROUP_INDEX(Ped ped, uint* pIndex);
 - **Ped:** ped
 
 ### Results
-- **uint\*:** pIndex
+- **uint*:** pIndex
 
 ## Description

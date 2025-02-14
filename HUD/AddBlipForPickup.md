@@ -10,6 +10,6 @@ void ADD_BLIP_FOR_PICKUP(Pickup pickup, Blip* pBlip);
 - **Pickup:** pickup
 
 ### Results
-- **Blip\*:** pBlip
+- **Blip*:** pBlip
 
 ## Description

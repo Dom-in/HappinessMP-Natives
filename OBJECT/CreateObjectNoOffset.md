@@ -14,7 +14,7 @@ void CREATE_OBJECT_NO_OFFSET(int modelHash, float x, float y, float z, int* obje
 - **bool:** registerAsNetworkObject
 
 ### Results
-- **int\*:** objectIndex
+- **int*:** objectIndex
 
 ## Description
 Create an object with no offset at the given coord.

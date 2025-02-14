@@ -10,6 +10,6 @@ void GET_CHAR_HEALTH(Ped ped, uint* pHealth);
 - **Ped:** ped
 
 ### Results
-- **uint\*:** pHealth
+- **uint*:** pHealth
 
 ## Description

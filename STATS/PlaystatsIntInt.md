@@ -7,7 +7,7 @@ void PLAYSTATS_INT_INT(char* stat, int value, int value2);
 ```
 
 ### Arguments
-- **char\*:** stat
+- **char*:** stat
 - **int:** value
 - **int:** value2
 

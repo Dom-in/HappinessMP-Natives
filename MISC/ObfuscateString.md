@@ -7,7 +7,7 @@ char* OBFUSCATE_STRING(char* str);
 ```
 
 ### Arguments
-- **char\*:** str
+- **char*:** str
 
 ### Results
 - **char***

@@ -11,6 +11,6 @@ boolean GET_CHAR_SWIM_STATE(Ped ped, int* state);
 
 ### Results
 - **boolean**
-- **int\*:** state
+- **int*:** state
 
 ## Description

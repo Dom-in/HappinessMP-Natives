@@ -9,7 +9,7 @@ void GET_SCREEN_RESOLUTION(int* x, int* y);
 ### Arguments
 
 ### Results
-- **int\*:** x
-- **int\*:** y
+- **int*:** x
+- **int*:** y
 
 ## Description

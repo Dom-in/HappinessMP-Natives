@@ -11,7 +11,7 @@ bool GET_CHAR_LAST_DAMAGE_BONE(int charIndex, int* pBone);
 
 ### Results
 - **bool**
-- **int\*:** pBone
+- **int*:** pBone
 
 ## Description
 Gets the bone that took the last piece of damage.

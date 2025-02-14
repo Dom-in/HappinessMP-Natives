@@ -7,7 +7,7 @@ void PRINT_BIG_Q(char* gxtentry, int time, int flag);
 ```
 
 ### Arguments
-- **char\*:** gxtentry
+- **char*:** gxtentry
 - **int:** time
 - **int:** flag
 

@@ -10,6 +10,6 @@ void GET_OBJECT_SPEED(Object obj, float* pSpeed);
 - **Object:** obj
 
 ### Results
-- **float\*:** pSpeed
+- **float*:** pSpeed
 
 ## Description

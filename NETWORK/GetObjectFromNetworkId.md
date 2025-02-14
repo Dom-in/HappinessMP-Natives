@@ -10,7 +10,7 @@ void GET_OBJECT_FROM_NETWORK_ID(int networkId, int* objectIndex);
 - **int:** networkId
 
 ### Results
-- **int\*:** objectIndex
+- **int*:** objectIndex
 
 ## Description
 Returns the object index of the object with the specified network ID.

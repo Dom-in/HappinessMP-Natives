@@ -13,9 +13,9 @@ boolean GET_NEXT_CLOSEST_CAR_NODE_WITH_HEADING(float x, float y, float z, float*
 
 ### Results
 - **boolean**
-- **float\*:** pX
-- **float\*:** pY
-- **float\*:** pZ
-- **float\*:** heading
+- **float*:** pX
+- **float*:** pY
+- **float*:** pZ
+- **float*:** heading
 
 ## Description

@@ -10,6 +10,6 @@ void LIMIT_ANGLE(float angle, float* anglelimited);
 - **float:** angle
 
 ### Results
-- **float\*:** anglelimited
+- **float*:** anglelimited
 
 ## Description

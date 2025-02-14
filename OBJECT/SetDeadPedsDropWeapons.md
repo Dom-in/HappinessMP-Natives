@@ -9,6 +9,13 @@ void SET_DEAD_PEDS_DROP_WEAPONS(boolean set);
 ### Arguments
 - **boolean:** set
 
-### Results
-
 ## Description
+Disables weapon drop from peds
+
+```lua
+Game.SetDeadPedsDropWeapons(true)
+```
+
+```squirrel
+Game.SetDeadPedsDropWeapons(true);
+```

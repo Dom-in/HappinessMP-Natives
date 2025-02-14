@@ -7,7 +7,7 @@ void REQUEST_IPL(char* iplName);
 ```
 
 ### Arguments
-- **char\*:** iplName
+- **char*:** iplName
 
 ### Results
 

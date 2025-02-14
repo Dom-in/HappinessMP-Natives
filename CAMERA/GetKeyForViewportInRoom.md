@@ -10,6 +10,6 @@ void GET_KEY_FOR_VIEWPORT_IN_ROOM(int viewportIndex, int* roomKey);
 - **int:** viewportIndex
 
 ### Results
-- **int\*:** roomKey
+- **int*:** roomKey
 
 ## Description

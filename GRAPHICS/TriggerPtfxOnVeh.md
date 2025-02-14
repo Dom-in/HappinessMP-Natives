@@ -7,7 +7,7 @@ boolean TRIGGER_PTFX_ON_VEH(char* name, Vehicle veh, float x, float y, float z, 
 ```
 
 ### Arguments
-- **char\*:** name
+- **char*:** name
 - **Vehicle:** veh
 - **float:** x
 - **float:** y

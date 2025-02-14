@@ -10,6 +10,6 @@ void GET_CAR_BLOCKING_CAR(Car car0, Car* car1);
 - **Car:** car0
 
 ### Results
-- **Car\*:** car1
+- **Car*:** car1
 
 ## Description

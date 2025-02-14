@@ -7,7 +7,7 @@ void CLEAR_THIS_BIG_PRINT(char* gxtentry);
 ```
 
 ### Arguments
-- **char\*:** gxtentry
+- **char*:** gxtentry
 
 ### Results
 

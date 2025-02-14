@@ -8,8 +8,8 @@ void TASK_PLAY_ANIM_WITH_ADVANCED_FLAGS(int charIndex, char* animName, char* ani
 
 ### Arguments
 - **int:** charIndex
-- **char\*:** animName
-- **char\*:** animDictName
+- **char*:** animName
+- **char*:** animDictName
 - **float:** speed (usually 8.0)
 - **bool:** flag1
 - **bool:** flag2

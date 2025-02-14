@@ -8,7 +8,7 @@ bool NETWORK_SEND_TEXT_CHAT(int playerId, char* message);
 
 ### Arguments
 - **int:** playerId
-- **char\*:** message
+- **char*:** message
 
 ### Results
 - **bool**

@@ -7,7 +7,7 @@ void REQUEST_STREAMED_TXD(char* txdName, bool priority);
 ```
 
 ### Arguments
-- **char\*:** txdName
+- **char*:** txdName
 - **bool:** priority
 
 ### Results

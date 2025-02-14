@@ -7,7 +7,7 @@ void PRINT_WITH_2_NUMBERS(char* gxtName, int value1, int value2, uint timeMS, bo
 ```
 
 ### Arguments
-- **char\*:** gxtName
+- **char*:** gxtName
 - **int:** value1
 - **int:** value2
 - **uint:** timeMS

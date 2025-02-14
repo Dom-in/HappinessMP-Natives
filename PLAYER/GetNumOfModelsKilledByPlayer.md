@@ -11,6 +11,6 @@ void GET_NUM_OF_MODELS_KILLED_BY_PLAYER(int player, uint model, int* num);
 - **uint:** model
 
 ### Results
-- **int\*:** num
+- **int*:** num
 
 ## Description

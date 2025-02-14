@@ -10,7 +10,7 @@ void GET_CHAR_HEIGHT_ABOVE_GROUND(int charIndex, float* height);
 - **int:** charIndex
 
 ### Results
-- **float\*:** height
+- **float*:** height
 
 ## Description
 Gets the char's height above the ground.

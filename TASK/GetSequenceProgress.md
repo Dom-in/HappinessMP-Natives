@@ -10,6 +10,6 @@ void GET_SEQUENCE_PROGRESS(int seq, int* progress);
 - **int:** seq
 
 ### Results
-- **int\*:** progress
+- **int*:** progress
 
 ## Description

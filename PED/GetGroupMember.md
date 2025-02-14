@@ -11,6 +11,6 @@ void GET_GROUP_MEMBER(Group group, uint index, Ped* pPed);
 - **uint:** index
 
 ### Results
-- **Ped\*:** pPed
+- **Ped*:** pPed
 
 ## Description

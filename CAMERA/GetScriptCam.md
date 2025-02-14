@@ -9,6 +9,6 @@ void GET_SCRIPT_CAM(int* cam);
 ### Arguments
 
 ### Results
-- **int\*:** cam
+- **int*:** cam
 
 ## Description

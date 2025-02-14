@@ -7,7 +7,7 @@ void RETUNE_RADIO_TO_STATION_NAME(char* name);
 ```
 
 ### Arguments
-- **char\*:** name
+- **char*:** name
 
 ### Results
 

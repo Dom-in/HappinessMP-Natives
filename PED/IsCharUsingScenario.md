@@ -8,7 +8,7 @@ boolean IS_CHAR_USING_SCENARIO(Ped ped, char* scenarioName);
 
 ### Arguments
 - **Ped:** ped
-- **char\*:** scenarioName
+- **char*:** scenarioName
 
 ### Results
 - **boolean**

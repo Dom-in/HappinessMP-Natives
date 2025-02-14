@@ -13,6 +13,6 @@ void CREATE_CHAR_AS_PASSENGER(int vehicleIndex, int charType, int modelHashKey, 
 - **int:** passengerIndex
 
 ### Results
-- **int\*:** charIndex
+- **int*:** charIndex
 
 ## Description

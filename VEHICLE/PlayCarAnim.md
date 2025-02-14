@@ -8,8 +8,8 @@ boolean PLAY_CAR_ANIM(Car car, char* animname0, char* animname1, float, boolean 
 
 ### Arguments
 - **Car:** car
-- **char\*:** animname0
-- **char\*:** animname1
+- **char*:** animname0
+- **char*:** animname1
 - **float**
 - **boolean:** flag0
 - **boolean:** flag1

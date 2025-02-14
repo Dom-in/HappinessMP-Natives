@@ -13,8 +13,8 @@ void GET_OFFSET_FROM_CAR_IN_WORLD_COORDS(Vehicle vehicle, float x, float y, floa
 - **float:** z
 
 ### Results
-- **float\*:** pOffX
-- **float\*:** pOffY
-- **float\*:** pOffZ
+- **float*:** pOffX
+- **float*:** pOffY
+- **float*:** pOffZ
 
 ## Description

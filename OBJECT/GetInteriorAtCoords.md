@@ -12,7 +12,7 @@ void GET_INTERIOR_AT_COORDS(float x, float y, float z, int* interiorIndex);
 - **float:** z
 
 ### Results
-- **int\*:** interiorIndex
+- **int*:** interiorIndex
 
 ## Description
 Gets the interior index from coords.

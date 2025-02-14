@@ -8,8 +8,8 @@ void TASK_PLAY_ANIM_FACIAL(int charIndex, char* animName, char* animDictName, fl
 
 ### Arguments
 - **int:** charIndex
-- **char\*:** animName
-- **char\*:** animDictName
+- **char*:** animName
+- **char*:** animDictName
 - **float:** speed
 - **bool:** flag1
 - **bool:** flag2

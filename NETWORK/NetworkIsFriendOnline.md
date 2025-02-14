@@ -7,7 +7,7 @@ bool NETWORK_IS_FRIEND_ONLINE(char* friendName);
 ```
 
 ### Arguments
-- **char\*:** friendName
+- **char*:** friendName
 
 ### Results
 - **bool**

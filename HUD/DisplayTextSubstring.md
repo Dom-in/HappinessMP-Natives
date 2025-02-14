@@ -9,7 +9,7 @@ void DISPLAY_TEXT_SUBSTRING(float x, float y, char* textLabel, bool, int, int, i
 ### Arguments
 - **float:** x
 - **float:** y
-- **char\*:** textLabel
+- **char*:** textLabel
 - **bool**
 - **int**
 - **int**

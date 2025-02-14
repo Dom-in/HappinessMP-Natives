@@ -8,8 +8,8 @@ void CHANGE_CHAR_SIT_IDLE_ANIM(int charIndex, char* animGroup, char* animName, b
 
 ### Arguments
 - **int:** charIndex
-- **char\*:** animGroup
-- **char\*:** animName
+- **char*:** animGroup
+- **char*:** animName
 - **bool**
 
 ### Results

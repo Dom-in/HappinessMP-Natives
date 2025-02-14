@@ -13,8 +13,8 @@ void GET_OFFSET_FROM_CHAR_IN_WORLD_COORDS(Ped ped, float x, float y, float z, fl
 - **float:** z
 
 ### Results
-- **float\*:** pOffX
-- **float\*:** pOffY
-- **float\*:** pOffZ
+- **float*:** pOffX
+- **float*:** pOffY
+- **float*:** pOffZ
 
 ## Description

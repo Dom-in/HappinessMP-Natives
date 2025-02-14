@@ -7,7 +7,7 @@ void SAVE_SCRIPT_ARRAY_IN_SCRATCHPAD(void* array, int size, int scriptIndex, int
 ```
 
 ### Arguments
-- **void\*:** array
+- **void*:** array
 - **int:** size
 - **int:** scriptIndex
 - **int:** scratchpadIndex

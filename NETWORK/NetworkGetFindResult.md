@@ -8,7 +8,7 @@ void NETWORK_GET_FIND_RESULT(int findIndex, void* results);
 
 ### Arguments
 - **int:** findIndex
-- **void\*:** results
+- **void*:** results
 
 ### Results
 

@@ -13,6 +13,6 @@ void GET_CAR_DEFORMATION_AT_POS(Vehicle vehicle, float x, float y, float z, Vect
 - **float:** z
 
 ### Results
-- **Vector3\*:** pDeformation
+- **Vector3*:** pDeformation
 
 ## Description

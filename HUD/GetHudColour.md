@@ -10,9 +10,9 @@ void GET_HUD_COLOUR(uint type, uint* pR, uint* pG, uint* pB, uint* pA);
 - **uint:** type
 
 ### Results
-- **uint\*:** pR
-- **uint\*:** pG
-- **uint\*:** pB
-- **uint\*:** pA
+- **uint*:** pR
+- **uint*:** pG
+- **uint*:** pB
+- **uint*:** pA
 
 ## Description

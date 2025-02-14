@@ -7,7 +7,7 @@ boolean REQUEST_AMBIENT_AUDIO_BANK(char* name);
 ```
 
 ### Arguments
-- **char\*:** name
+- **char*:** name
 
 ### Results
 - **boolean**

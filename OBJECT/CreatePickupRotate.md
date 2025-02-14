@@ -18,7 +18,7 @@ void CREATE_PICKUP_ROTATE(int modelHash, int pickupType, int ammo, float x, floa
 - **float:** rZ
 
 ### Results
-- **int\*:** pickupIndex
+- **int*:** pickupIndex
 
 ## Description
 Creates a pickup that can be given any orientation.

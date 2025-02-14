@@ -7,8 +7,8 @@ void PRINT_STRING_IN_STRING_NOW(char* gxtName, char* gxtText, uint timeMS, boole
 ```
 
 ### Arguments
-- **char\*:** gxtName
-- **char\*:** gxtText
+- **char*:** gxtName
+- **char*:** gxtText
 - **uint:** timeMS
 - **boolean:** enable
 

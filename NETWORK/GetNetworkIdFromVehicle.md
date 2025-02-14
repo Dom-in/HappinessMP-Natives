@@ -10,6 +10,6 @@ void GET_NETWORK_ID_FROM_VEHICLE(uint vehicle, int* networkID);
 - **uint:** vehicle
 
 ### Results
-- **int\*:** networkID
+- **int*:** networkID
 
 ## Description

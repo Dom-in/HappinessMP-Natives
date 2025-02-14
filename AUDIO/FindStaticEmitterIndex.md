@@ -7,7 +7,7 @@ int FIND_STATIC_EMITTER_INDEX(char* StaticEmitterName);
 ```
 
 ### Arguments
-- **char\*:** StaticEmitterName
+- **char*:** StaticEmitterName
 
 ### Results
 - **int**

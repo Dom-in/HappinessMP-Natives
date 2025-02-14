@@ -7,7 +7,7 @@ void CLOSE_GARAGE(char* garageName);
 ```
 
 ### Arguments
-- **char\*:** garageName
+- **char*:** garageName
 
 ### Results
 

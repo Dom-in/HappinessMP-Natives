@@ -15,7 +15,7 @@ void CREATE_PICKUP_WITH_AMMO(int modelHash, int pickupType, int ammo, float x, f
 - **float:** z
 
 ### Results
-- **int\*:** pickupIndex
+- **int*:** pickupIndex
 
 ## Description
 Creates a weapon pickup, giving the player the specified amount of ammo when they pick it up.

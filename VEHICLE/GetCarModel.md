@@ -10,7 +10,7 @@ void GET_CAR_MODEL(int vehicleIndex, int* modelHashKey);
 - **int:** vehicleIndex
 
 ### Results
-- **int\*:** modelHashKey
+- **int*:** modelHashKey
 
 ## Description
 Get the model hash for the car.

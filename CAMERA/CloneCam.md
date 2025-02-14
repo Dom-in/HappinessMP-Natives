@@ -10,6 +10,6 @@ void CLONE_CAM(int cam, int* camcopy);
 - **int:** cam
 
 ### Results
-- **int\*:** camcopy
+- **int*:** camcopy
 
 ## Description

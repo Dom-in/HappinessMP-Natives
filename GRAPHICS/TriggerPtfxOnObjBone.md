@@ -7,7 +7,7 @@ boolean TRIGGER_PTFX_ON_OBJ_BONE(char* name, Object obj, float x, float y, float
 ```
 
 ### Arguments
-- **char\*:** name
+- **char*:** name
 - **Object:** obj
 - **float:** x
 - **float:** y

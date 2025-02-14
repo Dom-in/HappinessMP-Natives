@@ -10,6 +10,6 @@ void UNOBFUSCATE_INT(int count, int* val);
 - **int:** count
 
 ### Results
-- **int\*:** val
+- **int*:** val
 
 ## Description

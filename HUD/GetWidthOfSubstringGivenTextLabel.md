@@ -7,7 +7,7 @@ int GET_WIDTH_OF_SUBSTRING_GIVEN_TEXT_LABEL(char* textLabel, bool, int, int, int
 ```
 
 ### Arguments
-- **char\*:** textLabel
+- **char*:** textLabel
 - **bool**
 - **int**
 - **int**

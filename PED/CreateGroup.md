@@ -11,7 +11,7 @@ void CREATE_GROUP(int, int* groupIndex, bool);
 - **bool**
 
 ### Results
-- **int\*:** groupIndex
+- **int*:** groupIndex
 
 ## Description
 Creates a group.

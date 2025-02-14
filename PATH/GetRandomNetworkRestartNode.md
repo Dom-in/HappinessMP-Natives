@@ -15,6 +15,6 @@ bool GET_RANDOM_NETWORK_RESTART_NODE(float x, float y, float z, float range, Vec
 ### Results
 - **bool**
 - **Vector3***
-- **int\*:** nodeIndex
+- **int*:** nodeIndex
 
 ## Description

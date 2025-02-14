@@ -7,7 +7,7 @@ void DISPLAY_HELP_TEXT_THIS_FRAME(char* gxtkey, boolean);
 ```
 
 ### Arguments
-- **char\*:** gxtkey
+- **char*:** gxtkey
 - **boolean**
 
 ### Results

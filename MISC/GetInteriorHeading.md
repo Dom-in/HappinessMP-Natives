@@ -10,6 +10,6 @@ void GET_INTERIOR_HEADING(Interior interior, float* pHeading);
 - **Interior:** interior
 
 ### Results
-- **float\*:** pHeading
+- **float*:** pHeading
 
 ## Description

@@ -7,7 +7,7 @@ void OPEN_GARAGE(char* name);
 ```
 
 ### Arguments
-- **char\*:** name
+- **char*:** name
 
 ### Results
 

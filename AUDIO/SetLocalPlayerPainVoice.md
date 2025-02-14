@@ -7,7 +7,7 @@ void SET_LOCAL_PLAYER_PAIN_VOICE(char* name);
 ```
 
 ### Arguments
-- **char\*:** name
+- **char*:** name
 
 ### Results
 

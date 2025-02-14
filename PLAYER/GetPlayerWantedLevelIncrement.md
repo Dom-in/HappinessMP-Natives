@@ -10,6 +10,6 @@ void GET_PLAYER_WANTED_LEVEL_INCREMENT(int player, int* increment);
 - **int:** player
 
 ### Results
-- **int\*:** increment
+- **int*:** increment
 
 ## Description

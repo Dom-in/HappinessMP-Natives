@@ -10,7 +10,7 @@ void GET_GROUP_SIZE(Group group, uint* pStartIndex, uint* pCount);
 - **Group:** group
 
 ### Results
-- **uint\*:** pStartIndex
-- **uint\*:** pCount
+- **uint*:** pStartIndex
+- **uint*:** pCount
 
 ## Description

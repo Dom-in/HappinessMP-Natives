@@ -10,6 +10,6 @@ void GET_OBJECT_HEALTH(Object obj, float* pHealth);
 - **Object:** obj
 
 ### Results
-- **float\*:** pHealth
+- **float*:** pHealth
 
 ## Description

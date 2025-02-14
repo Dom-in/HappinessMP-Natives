@@ -10,6 +10,6 @@ void GET_KEY_FOR_CAR_IN_ROOM(int vehicleIndex, int* roomKey);
 - **int:** vehicleIndex
 
 ### Results
-- **int\*:** roomKey
+- **int*:** roomKey
 
 ## Description

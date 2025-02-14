@@ -17,7 +17,7 @@ bool GET_SORTED_NETWORK_RESTART_NODE_USING_GROUP_LIST(float x, float y, float z,
 
 ### Results
 - **bool**
-- **Vector3\*:** vecReturn
-- **int\*:** nodeId
+- **Vector3*:** vecReturn
+- **int*:** nodeId
 
 ## Description

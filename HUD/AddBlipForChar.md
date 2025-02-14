@@ -10,6 +10,6 @@ void ADD_BLIP_FOR_CHAR(Ped ped, Blip* pBlip);
 - **Ped:** ped
 
 ### Results
-- **Blip\*:** pBlip
+- **Blip*:** pBlip
 
 ## Description

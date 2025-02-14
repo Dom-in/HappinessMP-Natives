@@ -8,7 +8,7 @@ boolean IS_CHAR_IN_ZONE(Ped ped, char* zonename);
 
 ### Arguments
 - **Ped:** ped
-- **char\*:** zonename
+- **char*:** zonename
 
 ### Results
 - **boolean**

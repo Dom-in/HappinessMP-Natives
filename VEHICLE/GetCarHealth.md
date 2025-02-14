@@ -10,6 +10,6 @@ void GET_CAR_HEALTH(Vehicle vehicle, uint* pValue);
 - **Vehicle:** vehicle
 
 ### Results
-- **uint\*:** pValue
+- **uint*:** pValue
 
 ## Description

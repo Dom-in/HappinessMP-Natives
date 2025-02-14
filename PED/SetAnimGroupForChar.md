@@ -8,7 +8,7 @@ void SET_ANIM_GROUP_FOR_CHAR(Ped ped, char* grname);
 
 ### Arguments
 - **Ped:** ped
-- **char\*:** grname
+- **char*:** grname
 
 ### Results
 

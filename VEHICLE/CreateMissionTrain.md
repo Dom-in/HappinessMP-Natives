@@ -14,7 +14,7 @@ void CREATE_MISSION_TRAIN(int variation, float x, float y, float z, bool directi
 - **bool:** directionFlag
 
 ### Results
-- **int\*:** carIndex
+- **int*:** carIndex
 
 ## Description
 Create a mission train.

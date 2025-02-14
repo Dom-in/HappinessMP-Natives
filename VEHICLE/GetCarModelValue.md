@@ -10,7 +10,7 @@ void GET_CAR_MODEL_VALUE(int modelHashKey, int* value);
 - **int:** modelHashKey
 
 ### Results
-- **int\*:** value
+- **int*:** value
 
 ## Description
 Gets the monetary value of a car's model.

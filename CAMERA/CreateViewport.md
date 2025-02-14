@@ -9,6 +9,6 @@ void CREATE_VIEWPORT(int* viewportIndex);
 ### Arguments
 
 ### Results
-- **int\*:** viewportIndex
+- **int*:** viewportIndex
 
 ## Description

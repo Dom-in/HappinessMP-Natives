@@ -15,11 +15,11 @@ bool GET_NTH_CLOSEST_CAR_NODE_WITH_HEADING_ON_ISLAND(float x, float y, float z, 
 
 ### Results
 - **bool**
-- **float\*:** nearestNodeX
-- **float\*:** nearestNodeY
-- **float\*:** nearestNodeZ
-- **float\*:** returnHeading
-- **int\*:** numLanes
+- **float*:** nearestNodeX
+- **float*:** nearestNodeY
+- **float*:** nearestNodeZ
+- **float*:** returnHeading
+- **int*:** numLanes
 
 ## Description
 Will return if can the nth (n = 1 being closest) closest car node with a heading, to a coord on an island.

@@ -8,7 +8,7 @@ void REQUEST_INTERIOR_MODELS(int modelHashKey, char* roomName);
 
 ### Arguments
 - **int:** modelHashKey
-- **char\*:** roomName
+- **char*:** roomName
 
 ### Results
 

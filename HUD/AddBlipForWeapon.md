@@ -12,6 +12,6 @@ void ADD_BLIP_FOR_WEAPON(float x, float y, float z, int* blip);
 - **float:** z
 
 ### Results
-- **int\*:** blip
+- **int*:** blip
 
 ## Description

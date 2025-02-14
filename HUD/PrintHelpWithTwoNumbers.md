@@ -7,7 +7,7 @@ void PRINT_HELP_WITH_TWO_NUMBERS(char* gxtentry, int, int);
 ```
 
 ### Arguments
-- **char\*:** gxtentry
+- **char*:** gxtentry
 - **int**
 - **int**
 

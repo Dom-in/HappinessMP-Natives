@@ -7,7 +7,7 @@ void SET_ZONE_SCUMMINESS(char* zone, int scumminess);
 ```
 
 ### Arguments
-- **char\*:** zone
+- **char*:** zone
 - **int:** scumminess
 
 ### Results

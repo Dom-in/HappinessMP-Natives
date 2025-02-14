@@ -12,6 +12,6 @@ void CREATE_CHAR_INSIDE_CAR(int vehicleIndex, int charType, int modelHashKey, in
 - **int:** modelHashKey
 
 ### Results
-- **int\*:** charIndex
+- **int*:** charIndex
 
 ## Description

@@ -7,7 +7,7 @@ boolean HAS_SCRIPT_LOADED(char* scriptName);
 ```
 
 ### Arguments
-- **char\*:** scriptName
+- **char*:** scriptName
 
 ### Results
 - **boolean**

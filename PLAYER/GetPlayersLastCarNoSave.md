@@ -9,6 +9,6 @@ void GET_PLAYERS_LAST_CAR_NO_SAVE(Vehicle* pVehicle);
 ### Arguments
 
 ### Results
-- **Vehicle\*:** pVehicle
+- **Vehicle*:** pVehicle
 
 ## Description

@@ -9,7 +9,7 @@ void ADD_NEW_CONVERSATION_SPEAKER(int speakerConversationIndex, int speakerCharI
 ### Arguments
 - **int:** speakerConversationIndex
 - **int:** speakerCharIndex
-- **char\*:** voiceName
+- **char*:** voiceName
 
 ### Results
 

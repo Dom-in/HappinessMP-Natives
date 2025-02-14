@@ -7,7 +7,7 @@ void REGISTER_WORLD_POINT_SCRIPT_BRAIN(char* ScriptName, float radius);
 ```
 
 ### Arguments
-- **char\*:** ScriptName
+- **char*:** ScriptName
 - **float:** radius
 
 ### Results

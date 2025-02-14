@@ -10,6 +10,6 @@ void CREATE_RANDOM_CHAR_AS_DRIVER(Vehicle vehicle, Ped* pPed);
 - **Vehicle:** vehicle
 
 ### Results
-- **Ped\*:** pPed
+- **Ped*:** pPed
 
 ## Description

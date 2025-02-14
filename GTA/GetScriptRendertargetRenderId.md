@@ -9,6 +9,6 @@ void GET_SCRIPT_RENDERTARGET_RENDER_ID(uint* pRenderId);
 ### Arguments
 
 ### Results
-- **uint\*:** pRenderId
+- **uint*:** pRenderId
 
 ## Description

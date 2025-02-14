@@ -7,8 +7,8 @@ void FORCE_RADIO_TRACK(char* radiostation, char* trackname, int, int);
 ```
 
 ### Arguments
-- **char\*:** radiostation
-- **char\*:** trackname
+- **char*:** radiostation
+- **char*:** trackname
 - **int**
 - **int**
 

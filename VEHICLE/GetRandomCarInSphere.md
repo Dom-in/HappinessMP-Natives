@@ -15,6 +15,6 @@ void GET_RANDOM_CAR_IN_SPHERE(float x, float y, float z, float radius, uint mode
 - **int:** unk
 
 ### Results
-- **Car\*:** car
+- **Car*:** car
 
 ## Description

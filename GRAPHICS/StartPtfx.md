@@ -7,7 +7,7 @@ int START_PTFX(char* fxName, float posX, float posY, float posZ, float rotX, flo
 ```
 
 ### Arguments
-- **char\*:** fxName
+- **char*:** fxName
 - **float:** posX
 - **float:** posY
 - **float:** posZ

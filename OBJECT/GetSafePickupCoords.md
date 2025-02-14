@@ -12,8 +12,8 @@ void GET_SAFE_PICKUP_COORDS(float x, float y, float z, float* pSafeX, float* pSa
 - **float:** z
 
 ### Results
-- **float\*:** pSafeX
-- **float\*:** pSafeY
-- **float\*:** pSafeZ
+- **float*:** pSafeX
+- **float*:** pSafeY
+- **float*:** pSafeZ
 
 ## Description

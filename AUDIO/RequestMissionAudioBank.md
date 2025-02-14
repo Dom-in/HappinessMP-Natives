@@ -7,7 +7,7 @@ boolean REQUEST_MISSION_AUDIO_BANK(char* name);
 ```
 
 ### Arguments
-- **char\*:** name
+- **char*:** name
 
 ### Results
 - **boolean**

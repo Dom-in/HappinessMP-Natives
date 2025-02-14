@@ -11,8 +11,8 @@ void GET_CHAR_EXTRACTED_VELOCITY(Ped ped, boolean, float* x, float* y, float* z)
 - **boolean**
 
 ### Results
-- **float\*:** x
-- **float\*:** y
-- **float\*:** z
+- **float*:** x
+- **float*:** y
+- **float*:** z
 
 ## Description

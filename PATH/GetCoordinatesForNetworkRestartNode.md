@@ -10,7 +10,7 @@ void GET_COORDINATES_FOR_NETWORK_RESTART_NODE(int nodeId, Vector3* vecReturn, fl
 - **int:** nodeId
 
 ### Results
-- **Vector3\*:** vecReturn
-- **float\*:** heading
+- **Vector3*:** vecReturn
+- **float*:** heading
 
 ## Description

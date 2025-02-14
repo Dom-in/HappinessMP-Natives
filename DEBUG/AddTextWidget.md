@@ -7,7 +7,7 @@ int ADD_TEXT_WIDGET(char* title);
 ```
 
 ### Arguments
-- **char\*:** title
+- **char*:** title
 
 ### Results
 - **int:** textWidgetIndex

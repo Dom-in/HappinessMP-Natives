@@ -8,7 +8,7 @@ void SET_MISSION_PICKUP_SOUND(int modelHash, char* soundName);
 
 ### Arguments
 - **int:** modelHash
-- **char\*:** soundName
+- **char*:** soundName
 
 ### Results
 

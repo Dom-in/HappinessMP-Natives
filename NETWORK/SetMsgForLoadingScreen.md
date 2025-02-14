@@ -7,7 +7,7 @@ void SET_MSG_FOR_LOADING_SCREEN(char* msg);
 ```
 
 ### Arguments
-- **char\*:** msg
+- **char*:** msg
 
 ### Results
 

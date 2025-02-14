@@ -10,8 +10,8 @@ void GET_CAM_POS(Camera camera, float* pX, float* pY, float* pZ);
 - **Camera:** camera
 
 ### Results
-- **float\*:** pX
-- **float\*:** pY
-- **float\*:** pZ
+- **float*:** pX
+- **float*:** pY
+- **float*:** pZ
 
 ## Description

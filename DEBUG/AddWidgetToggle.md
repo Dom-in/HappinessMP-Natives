@@ -7,7 +7,7 @@ void ADD_WIDGET_TOGGLE(char* name, bool& toggle);
 ```
 
 ### Arguments
-- **char\*:** name
+- **char*:** name
 - **bool&:** toggle
 
 ### Results

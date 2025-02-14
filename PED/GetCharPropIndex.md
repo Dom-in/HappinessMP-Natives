@@ -11,7 +11,7 @@ void GET_CHAR_PROP_INDEX(int charIndex, int position, int* propIndex);
 - **int:** position
 
 ### Results
-- **int\*:** propIndex
+- **int*:** propIndex
 
 ## Description
 Get the id of the prop which has been assigned at the given position for the given char.

@@ -11,7 +11,7 @@ bool HAS_RELOADED_WITH_MOTION_CONTROL(int padNumber, bool* hasReloaded);
 
 ### Results
 - **bool**
-- **bool\*:** hasReloaded
+- **bool*:** hasReloaded
 
 ## Description
 Returns true/false if motion controls are enabled/disabled.

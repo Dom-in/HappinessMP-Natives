@@ -9,7 +9,7 @@ void GET_NETWORK_TIMER(int* timer);
 ### Arguments
 
 ### Results
-- **int\*:** timer
+- **int*:** timer
 
 ## Description
 Gets the current network timer in milliseconds.

@@ -7,7 +7,7 @@ void CLEAR_NAMED_CUTSCENE(char* name);
 ```
 
 ### Arguments
-- **char\*:** name
+- **char*:** name
 
 ### Results
 

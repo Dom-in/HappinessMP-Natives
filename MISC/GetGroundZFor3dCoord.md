@@ -13,7 +13,7 @@ bool GET_GROUND_Z_FOR_3D_COORD(float x, float y, float z, float* returnZ);
 
 ### Results
 - **bool**
-- **float\*:** returnZ
+- **float*:** returnZ
 
 ## Description
 Trys to store the Z coordinate of the highest ground below the given point.

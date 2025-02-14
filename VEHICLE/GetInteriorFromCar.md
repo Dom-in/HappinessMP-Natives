@@ -10,6 +10,6 @@ void GET_INTERIOR_FROM_CAR(Vehicle vehicle, Interior* pInterior);
 - **Vehicle:** vehicle
 
 ### Results
-- **Interior\*:** pInterior
+- **Interior*:** pInterior
 
 ## Description

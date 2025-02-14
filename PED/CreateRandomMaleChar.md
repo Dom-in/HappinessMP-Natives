@@ -12,6 +12,6 @@ void CREATE_RANDOM_MALE_CHAR(float x, float y, float z, Ped* pPed);
 - **float:** z
 
 ### Results
-- **Ped\*:** pPed
+- **Ped*:** pPed
 
 ## Description

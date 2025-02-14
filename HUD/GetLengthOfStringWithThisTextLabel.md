@@ -7,7 +7,7 @@ int GET_LENGTH_OF_STRING_WITH_THIS_TEXT_LABEL(char* textLabel);
 ```
 
 ### Arguments
-- **char\*:** textLabel
+- **char*:** textLabel
 
 ### Results
 - **int**

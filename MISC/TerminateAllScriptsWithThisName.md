@@ -7,7 +7,7 @@ void TERMINATE_ALL_SCRIPTS_WITH_THIS_NAME(char* name);
 ```
 
 ### Arguments
-- **char\*:** name
+- **char*:** name
 
 ### Results
 

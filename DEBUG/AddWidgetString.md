@@ -7,7 +7,7 @@ void ADD_WIDGET_STRING(char* string);
 ```
 
 ### Arguments
-- **char\*:** string
+- **char*:** string
 
 ### Results
 

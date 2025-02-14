@@ -9,6 +9,6 @@ void GET_CURRENT_WEATHER(uint* pWeather);
 ### Arguments
 
 ### Results
-- **uint\*:** pWeather
+- **uint*:** pWeather
 
 ## Description

@@ -10,6 +10,6 @@ void GET_INTERIOR_FROM_CHAR(Ped ped, Interior* pInterior);
 - **Ped:** ped
 
 ### Results
-- **Interior\*:** pInterior
+- **Interior*:** pInterior
 
 ## Description

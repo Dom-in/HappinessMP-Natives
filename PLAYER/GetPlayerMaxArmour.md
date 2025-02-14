@@ -10,6 +10,6 @@ void GET_PLAYER_MAX_ARMOUR(Player playerIndex, uint* pMaxArmour);
 - **Player:** playerIndex
 
 ### Results
-- **uint\*:** pMaxArmour
+- **uint*:** pMaxArmour
 
 ## Description

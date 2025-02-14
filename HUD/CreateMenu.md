@@ -7,7 +7,7 @@ void CREATE_MENU(char* name, float x, float y, float width, int columns, bool in
 ```
 
 ### Arguments
-- **char\*:** name
+- **char*:** name
 - **float:** x
 - **float:** y
 - **float:** width
@@ -17,6 +17,6 @@ void CREATE_MENU(char* name, float x, float y, float width, int columns, bool in
 - **int:** alignment
 
 ### Results
-- **int\*:** menuIndex
+- **int*:** menuIndex
 
 ## Description

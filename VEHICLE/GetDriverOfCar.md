@@ -10,6 +10,6 @@ void GET_DRIVER_OF_CAR(Vehicle vehicle, Ped* pPed);
 - **Vehicle:** vehicle
 
 ### Results
-- **Ped\*:** pPed
+- **Ped*:** pPed
 
 ## Description

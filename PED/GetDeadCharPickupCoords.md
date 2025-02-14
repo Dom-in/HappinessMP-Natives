@@ -10,8 +10,8 @@ void GET_DEAD_CHAR_PICKUP_COORDS(Ped ped, float* pX, float* pY, float* pZ);
 - **Ped:** ped
 
 ### Results
-- **float\*:** pX
-- **float\*:** pY
-- **float\*:** pZ
+- **float*:** pX
+- **float*:** pY
+- **float*:** pZ
 
 ## Description

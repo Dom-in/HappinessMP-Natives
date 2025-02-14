@@ -8,7 +8,7 @@ void SET_VARIABLE_ON_SOUND(int soundId, char* varName, float varValue);
 
 ### Arguments
 - **int:** soundId
-- **char\*:** varName
+- **char*:** varName
 - **float:** varValue
 
 ### Results

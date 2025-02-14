@@ -10,6 +10,6 @@ void ADD_BLIP_FOR_OBJECT(Object obj, Blip* pBlip);
 - **Object:** obj
 
 ### Results
-- **Blip\*:** pBlip
+- **Blip*:** pBlip
 
 ## Description

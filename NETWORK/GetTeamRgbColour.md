@@ -10,9 +10,9 @@ void GET_TEAM_RGB_COLOUR(int team, int* red, int* green, int* blue);
 - **int:** team
 
 ### Results
-- **int\*:** red
-- **int\*:** green
-- **int\*:** blue
+- **int*:** red
+- **int*:** green
+- **int*:** blue
 
 ## Description
 Gets the RGB colour of the team.

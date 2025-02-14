@@ -7,7 +7,7 @@ void REMOVE_ANIMS(char* animName);
 ```
 
 ### Arguments
-- **char\*:** animName
+- **char*:** animName
 
 ### Results
 

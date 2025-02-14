@@ -10,9 +10,9 @@ void GET_VIEWPORT_POS_AND_SIZE(int viewportid, float* x, float* y, float* xsize,
 - **int:** viewportid
 
 ### Results
-- **float\*:** x
-- **float\*:** y
-- **float\*:** xsize
-- **float\*:** ysize
+- **float*:** x
+- **float*:** y
+- **float*:** xsize
+- **float*:** ysize
 
 ## Description

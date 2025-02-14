@@ -7,7 +7,7 @@ int START_PTFX_ON_OBJ(char* fxName, int objectIndex, float posX, float posY, flo
 ```
 
 ### Arguments
-- **char\*:** fxName
+- **char*:** fxName
 - **int:** objectIndex
 - **float:** posX
 - **float:** posY

@@ -8,8 +8,8 @@ boolean HAS_CHAR_ANIM_FINISHED(Ped ped, char* AnimName0, char* AnimName1);
 
 ### Arguments
 - **Ped:** ped
-- **char\*:** AnimName0
-- **char\*:** AnimName1
+- **char*:** AnimName0
+- **char*:** AnimName1
 
 ### Results
 - **boolean**

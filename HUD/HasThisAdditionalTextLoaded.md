@@ -7,7 +7,7 @@ boolean HAS_THIS_ADDITIONAL_TEXT_LOADED(char* textName, uint textIndex);
 ```
 
 ### Arguments
-- **char\*:** textName
+- **char*:** textName
 - **uint:** textIndex
 
 ### Results

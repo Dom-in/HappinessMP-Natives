@@ -10,6 +10,6 @@ void GET_BLIP_COLOUR(Blip blip, ColourIndex* pColour);
 - **Blip:** blip
 
 ### Results
-- **ColourIndex\*:** pColour
+- **ColourIndex*:** pColour
 
 ## Description

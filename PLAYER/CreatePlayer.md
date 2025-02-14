@@ -13,6 +13,6 @@ void CREATE_PLAYER(int unk_usually0, float x, float y, float z, int* playerIndex
 - **float:** z
 
 ### Results
-- **int\*:** playerIndex
+- **int*:** playerIndex
 
 ## Description

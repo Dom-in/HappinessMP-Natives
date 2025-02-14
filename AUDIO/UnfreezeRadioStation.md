@@ -7,7 +7,7 @@ void UNFREEZE_RADIO_STATION(char* radiostation);
 ```
 
 ### Arguments
-- **char\*:** radiostation
+- **char*:** radiostation
 
 ### Results
 

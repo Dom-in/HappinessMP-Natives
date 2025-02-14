@@ -10,7 +10,7 @@ void GET_EXTRA_CAR_COLOURS(Vehicle vehicle, ColourIndex* pColour1, ColourIndex* 
 - **Vehicle:** vehicle
 
 ### Results
-- **ColourIndex\*:** pColour1
-- **ColourIndex\*:** pColour2
+- **ColourIndex*:** pColour1
+- **ColourIndex*:** pColour2
 
 ## Description

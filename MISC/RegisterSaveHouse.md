@@ -11,7 +11,7 @@ uint REGISTER_SAVE_HOUSE(float x, float y, float z, float unkf, char* name, uint
 - **float:** y
 - **float:** z
 - **float:** unkf
-- **char\*:** name
+- **char*:** name
 - **uint:** unku
 
 ### Results

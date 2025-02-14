@@ -13,6 +13,6 @@ void ADD_BLIP_FOR_RADIUS(float x, float y, float z, int type, int* blip);
 - **int:** type
 
 ### Results
-- **int\*:** blip
+- **int*:** blip
 
 ## Description

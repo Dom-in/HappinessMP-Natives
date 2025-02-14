@@ -11,6 +11,6 @@ void GET_CHAR_IN_CAR_PASSENGER_SEAT(Vehicle vehicle, uint seatIndex, Ped* pPed);
 - **uint:** seatIndex
 
 ### Results
-- **Ped\*:** pPed
+- **Ped*:** pPed
 
 ## Description

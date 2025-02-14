@@ -15,6 +15,6 @@ void GET_RANDOM_CAR_OF_TYPE_IN_ANGLED_AREA_NO_SAVE(float, float, float, float, f
 - **uint:** type
 
 ### Results
-- **Car\*:** car
+- **Car*:** car
 
 ## Description

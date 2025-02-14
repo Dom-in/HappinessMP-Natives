@@ -14,8 +14,8 @@ boolean GET_NTH_CLOSEST_CAR_NODE(float x, float y, float z, int n, float* pX, fl
 
 ### Results
 - **boolean**
-- **float\*:** pX
-- **float\*:** pY
-- **float\*:** pZ
+- **float*:** pX
+- **float*:** pY
+- **float*:** pZ
 
 ## Description

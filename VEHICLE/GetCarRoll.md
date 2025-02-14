@@ -10,6 +10,6 @@ void GET_CAR_ROLL(Vehicle vehicle, float* pValue);
 - **Vehicle:** vehicle
 
 ### Results
-- **float\*:** pValue
+- **float*:** pValue
 
 ## Description

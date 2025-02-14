@@ -7,7 +7,7 @@ void ADD_TO_WIDGET_COMBO(char* newComboEntryName);
 ```
 
 ### Arguments
-- **char\*:** newComboEntryName
+- **char*:** newComboEntryName
 
 ### Results
 

@@ -10,6 +10,15 @@ void SET_POLICE_IGNORE_PLAYER(Player playerIndex, boolean value);
 - **Player:** playerIndex
 - **boolean:** value
 
-### Results
-
 ## Description
+Disables police in game for specific player
+
+```lua
+local playerId = Game.GetPlayerId()
+Game.SetPoliceIgnorePlayer(playerId, true)
+```
+
+```squirrel
+local playerId = Game.GetPlayerId();
+Game.SetPoliceIgnorePlayer(playerId, true);
+```

@@ -7,12 +7,12 @@ int START_NEW_SCRIPT_WITH_ARGS(char* scriptname, void* params, int paramcount, i
 ```
 
 ### Arguments
-- **char\*:** scriptname
+- **char*:** scriptname
 - **int:** paramcount
 - **int:** stacksize
 
 ### Results
 - **int**
-- **void\*:** params
+- **void*:** params
 
 ## Description

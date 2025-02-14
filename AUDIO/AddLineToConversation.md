@@ -8,8 +8,8 @@ void ADD_LINE_TO_CONVERSATION(int speakerNumber, char* context, char* subtitle, 
 
 ### Arguments
 - **int:** speakerNumber
-- **char\*:** context
-- **char\*:** subtitle
+- **char*:** context
+- **char*:** subtitle
 - **int:** listenerNumber
 - **int:** volumeType
 

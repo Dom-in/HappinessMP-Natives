@@ -17,9 +17,9 @@ boolean GET_RANDOM_CAR_NODE_INCLUDE_SWITCHED_OFF_NODES(float x, float y, float z
 
 ### Results
 - **boolean**
-- **float\*:** pX
-- **float\*:** pY
-- **float\*:** pZ
-- **float\*:** heading
+- **float*:** pX
+- **float*:** pY
+- **float*:** pZ
+- **float*:** heading
 
 ## Description

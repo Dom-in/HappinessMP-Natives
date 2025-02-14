@@ -7,7 +7,7 @@ void START_STREAMING_REQUEST_LIST(char* name);
 ```
 
 ### Arguments
-- **char\*:** name
+- **char*:** name
 
 ### Results
 

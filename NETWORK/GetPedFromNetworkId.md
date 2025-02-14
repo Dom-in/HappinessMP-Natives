@@ -10,6 +10,6 @@ void GET_PED_FROM_NETWORK_ID(int id, Ped* ped);
 - **int:** id
 
 ### Results
-- **Ped\*:** ped
+- **Ped*:** ped
 
 ## Description

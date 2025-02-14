@@ -8,8 +8,8 @@ void SET_CHAR_ANIM_CURRENT_TIME(Ped ped, char* AnimName0, char* AnimName1, float
 
 ### Arguments
 - **Ped:** ped
-- **char\*:** AnimName0
-- **char\*:** AnimName1
+- **char*:** AnimName0
+- **char*:** AnimName1
 - **float:** time
 
 ### Results

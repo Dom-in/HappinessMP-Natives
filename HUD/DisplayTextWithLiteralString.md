@@ -9,8 +9,8 @@ void DISPLAY_TEXT_WITH_LITERAL_STRING(float x, float y, char* gxtName, char* lit
 ### Arguments
 - **float:** x
 - **float:** y
-- **char\*:** gxtName
-- **char\*:** literalStr
+- **char*:** gxtName
+- **char*:** literalStr
 
 ### Results
 

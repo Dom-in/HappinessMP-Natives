@@ -7,7 +7,7 @@ void ADD_STRING_TO_NEWS_SCROLLBAR(char* str);
 ```
 
 ### Arguments
-- **char\*:** str
+- **char*:** str
 
 ### Results
 

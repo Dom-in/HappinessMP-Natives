@@ -7,7 +7,7 @@ void FINISH_WIDGET_COMBO(char* comboName, int& variable);
 ```
 
 ### Arguments
-- **char\*:** comboName
+- **char*:** comboName
 - **int&:** variable
 
 ### Results

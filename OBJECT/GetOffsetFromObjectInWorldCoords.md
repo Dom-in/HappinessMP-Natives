@@ -13,8 +13,8 @@ void GET_OFFSET_FROM_OBJECT_IN_WORLD_COORDS(Object obj, float x, float y, float 
 - **float:** z
 
 ### Results
-- **float\*:** pOffX
-- **float\*:** pOffY
-- **float\*:** pOffZ
+- **float*:** pOffX
+- **float*:** pOffY
+- **float*:** pOffZ
 
 ## Description

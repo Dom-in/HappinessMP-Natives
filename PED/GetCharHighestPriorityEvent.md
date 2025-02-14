@@ -10,6 +10,6 @@ void GET_CHAR_HIGHEST_PRIORITY_EVENT(Ped ped, int* event);
 - **Ped:** ped
 
 ### Results
-- **int\*:** event
+- **int*:** event
 
 ## Description

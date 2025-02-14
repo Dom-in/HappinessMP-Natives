@@ -7,7 +7,7 @@ char* GET_STRING_FROM_TEXT_FILE(char* gxtentry);
 ```
 
 ### Arguments
-- **char\*:** gxtentry
+- **char*:** gxtentry
 
 ### Results
 - **char***

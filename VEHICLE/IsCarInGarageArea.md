@@ -7,7 +7,7 @@ boolean IS_CAR_IN_GARAGE_AREA(char* garageName, Vehicle vehicle);
 ```
 
 ### Arguments
-- **char\*:** garageName
+- **char*:** garageName
 - **Vehicle:** vehicle
 
 ### Results

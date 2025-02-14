@@ -7,7 +7,7 @@ uint CALCULATE_CHECKSUM(void* array, int);
 ```
 
 ### Arguments
-- **void\*:** array
+- **void*:** array
 - **int**
 
 ### Results

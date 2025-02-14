@@ -10,6 +10,6 @@ void GET_CAR_HEADING(Vehicle vehicle, float* pValue);
 - **Vehicle:** vehicle
 
 ### Results
-- **float\*:** pValue
+- **float*:** pValue
 
 ## Description

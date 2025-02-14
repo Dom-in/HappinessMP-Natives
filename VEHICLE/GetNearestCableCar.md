@@ -13,6 +13,6 @@ void GET_NEAREST_CABLE_CAR(float x, float y, float z, float radius, Vehicle* pVe
 - **float:** radius
 
 ### Results
-- **Vehicle\*:** pVehicle
+- **Vehicle*:** pVehicle
 
 ## Description

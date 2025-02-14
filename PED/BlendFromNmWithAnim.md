@@ -8,8 +8,8 @@ void BLEND_FROM_NM_WITH_ANIM(Ped ped, char* AnimName0, char* AnimName1, int, flo
 
 ### Arguments
 - **Ped:** ped
-- **char\*:** AnimName0
-- **char\*:** AnimName1
+- **char*:** AnimName0
+- **char*:** AnimName1
 - **int**
 - **float:** x
 - **float:** y

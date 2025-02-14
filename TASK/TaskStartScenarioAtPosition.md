@@ -8,7 +8,7 @@ void TASK_START_SCENARIO_AT_POSITION(int charIndex, char* scenarioName, float x,
 
 ### Arguments
 - **int:** charIndex
-- **char\*:** scenarioName
+- **char*:** scenarioName
 - **float:** x
 - **float:** y
 - **float:** z

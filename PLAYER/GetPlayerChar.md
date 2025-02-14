@@ -10,6 +10,15 @@ void GET_PLAYER_CHAR(Player playerIndex, Ped* pPed);
 - **Player:** playerIndex
 
 ### Results
-- **Ped\*:** pPed
+- **Ped*:** pPed
 
 ## Description
+Allows you to get player character
+
+```lua
+Game.GetPlayerChar(Game.GetPlayerId())
+```
+
+```squirrel
+Game.GetPlayerChar(Game.GetPlayerId());
+```

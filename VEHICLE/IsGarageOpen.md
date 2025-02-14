@@ -7,7 +7,7 @@ boolean IS_GARAGE_OPEN(char* garageName);
 ```
 
 ### Arguments
-- **char\*:** garageName
+- **char*:** garageName
 
 ### Results
 - **boolean**

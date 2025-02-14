@@ -9,6 +9,6 @@ void GET_RADAR_VIEWPORT_ID(int* viewport);
 ### Arguments
 
 ### Results
-- **int\*:** viewport
+- **int*:** viewport
 
 ## Description

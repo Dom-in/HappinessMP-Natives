@@ -7,7 +7,7 @@ void ADD_TO_PREVIOUS_BRIEF(char* gxtentry);
 ```
 
 ### Arguments
-- **char\*:** gxtentry
+- **char*:** gxtentry
 
 ### Results
 

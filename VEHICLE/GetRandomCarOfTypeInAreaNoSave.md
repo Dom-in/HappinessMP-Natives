@@ -14,6 +14,6 @@ void GET_RANDOM_CAR_OF_TYPE_IN_AREA_NO_SAVE(float x0, float y0, float x1, float 
 - **uint:** model
 
 ### Results
-- **Car\*:** car
+- **Car*:** car
 
 ## Description

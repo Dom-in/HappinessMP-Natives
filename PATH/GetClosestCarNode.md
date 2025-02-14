@@ -13,9 +13,9 @@ bool GET_CLOSEST_CAR_NODE(float x, float y, float z, float* outX, float* outY, f
 
 ### Results
 - **bool**
-- **float\*:** outX
-- **float\*:** outY
-- **float\*:** outZ
+- **float*:** outX
+- **float*:** outY
+- **float*:** outZ
 
 ## Description
 Will return if can the closest car node to a coord.

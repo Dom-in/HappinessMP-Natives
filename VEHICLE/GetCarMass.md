@@ -10,6 +10,6 @@ void GET_CAR_MASS(Car car, float* mass);
 - **Car:** car
 
 ### Results
-- **float\*:** mass
+- **float*:** mass
 
 ## Description

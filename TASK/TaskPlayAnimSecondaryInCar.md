@@ -8,8 +8,8 @@ void TASK_PLAY_ANIM_SECONDARY_IN_CAR(int charIndex, char* animName, char* animDi
 
 ### Arguments
 - **int:** charIndex
-- **char\*:** animName
-- **char\*:** animDictName
+- **char*:** animName
+- **char*:** animDictName
 - **float:** speed (usually 8.0)
 - **bool:** flag1
 - **bool:** flag2

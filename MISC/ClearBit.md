@@ -10,6 +10,6 @@ void CLEAR_BIT(int* val, int bit);
 - **int:** bit
 
 ### Results
-- **int\*:** val
+- **int*:** val
 
 ## Description

@@ -7,7 +7,7 @@ boolean IS_THIS_HELP_MESSAGE_WITH_NUMBER_BEING_DISPLAYED(char* gxtentry, int num
 ```
 
 ### Arguments
-- **char\*:** gxtentry
+- **char*:** gxtentry
 - **int:** number
 
 ### Results

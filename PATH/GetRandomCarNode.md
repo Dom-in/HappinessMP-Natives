@@ -17,7 +17,7 @@ bool GET_RANDOM_CAR_NODE(float centrePointX, float centrePointY, float centrePoi
 
 ### Results
 - **bool**
-- **Vector3\*:** vecReturn
-- **int\*:** nodeId
+- **Vector3*:** vecReturn
+- **int*:** nodeId
 
 ## Description

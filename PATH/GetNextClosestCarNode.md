@@ -13,8 +13,8 @@ boolean GET_NEXT_CLOSEST_CAR_NODE(float x, float y, float z, float* pX, float* p
 
 ### Results
 - **boolean**
-- **float\*:** pX
-- **float\*:** pY
-- **float\*:** pZ
+- **float*:** pX
+- **float*:** pY
+- **float*:** pZ
 
 ## Description

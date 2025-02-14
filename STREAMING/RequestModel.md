@@ -9,7 +9,15 @@ void REQUEST_MODEL(int modelHashKey);
 ### Arguments
 - **int:** modelHashKey
 
-### Results
-
 ## Description
 Request streaming to load a model.
+
+```lua
+local model = Game.GetHashKey("SULTANRS")
+Game.RequestModel(model)
+```
+
+```squirrel
+local model = Game.GetHashKey("SULTANRS");
+Game.RequestModel(model);
+```

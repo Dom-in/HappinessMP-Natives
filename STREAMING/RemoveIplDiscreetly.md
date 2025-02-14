@@ -7,7 +7,7 @@ void REMOVE_IPL_DISCREETLY(char* iplname);
 ```
 
 ### Arguments
-- **char\*:** iplname
+- **char*:** iplname
 
 ### Results
 

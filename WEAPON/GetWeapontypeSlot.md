@@ -10,6 +10,6 @@ void GET_WEAPONTYPE_SLOT(int weapon, int* slot);
 - **int:** weapon
 
 ### Results
-- **int\*:** slot
+- **int*:** slot
 
 ## Description

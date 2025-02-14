@@ -11,8 +11,8 @@ void GET_CHAR_WEAPON_IN_SLOT(Ped ped, uint slot, uint* pWeapon, uint* pAmmo0, ui
 - **uint:** slot
 
 ### Results
-- **uint\*:** pWeapon
-- **uint\*:** pAmmo0
-- **uint\*:** pAmmo1
+- **uint*:** pWeapon
+- **uint*:** pAmmo0
+- **uint*:** pAmmo1
 
 ## Description

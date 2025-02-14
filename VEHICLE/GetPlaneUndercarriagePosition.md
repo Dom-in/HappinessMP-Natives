@@ -10,6 +10,6 @@ void GET_PLANE_UNDERCARRIAGE_POSITION(Vehicle plane, float* pos);
 - **Vehicle:** plane
 
 ### Results
-- **float\*:** pos
+- **float*:** pos
 
 ## Description

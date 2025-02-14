@@ -8,7 +8,7 @@ void SET_NM_MESSAGE_STRING(int id, char* string);
 
 ### Arguments
 - **int:** id
-- **char\*:** string
+- **char*:** string
 
 ### Results
 

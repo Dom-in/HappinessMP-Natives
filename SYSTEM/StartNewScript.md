@@ -7,7 +7,7 @@ uint START_NEW_SCRIPT(char* scriptName, uint stacksize);
 ```
 
 ### Arguments
-- **char\*:** scriptName
+- **char*:** scriptName
 - **uint:** stacksize
 
 ### Results

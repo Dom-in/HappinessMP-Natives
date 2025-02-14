@@ -10,6 +10,6 @@ void GET_KEY_FOR_CHAR_IN_ROOM(int charIndex, int* roomKey);
 - **int:** charIndex
 
 ### Results
-- **int\*:** roomKey
+- **int*:** roomKey
 
 ## Description

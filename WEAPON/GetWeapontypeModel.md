@@ -10,7 +10,7 @@ void GET_WEAPONTYPE_MODEL(int weaponType, int* modelHashKey);
 - **int:** weaponType
 
 ### Results
-- **int\*:** modelHashKey
+- **int*:** modelHashKey
 
 ## Description
 Returns the hash key of the weapon model.

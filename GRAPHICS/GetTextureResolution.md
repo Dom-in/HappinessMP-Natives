@@ -10,7 +10,7 @@ void GET_TEXTURE_RESOLUTION(uint texture, float* x, float* y);
 - **uint:** texture
 
 ### Results
-- **float\*:** x
-- **float\*:** y
+- **float*:** x
+- **float*:** y
 
 ## Description

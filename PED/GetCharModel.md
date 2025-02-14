@@ -10,7 +10,7 @@ void GET_CHAR_MODEL(int charIndex, int* modelHashKey);
 - **int:** charIndex
 
 ### Results
-- **int\*:** modelHashKey
+- **int*:** modelHashKey
 
 ## Description
 Get the model hash for the char.

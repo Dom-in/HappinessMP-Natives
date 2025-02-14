@@ -8,8 +8,8 @@ boolean IS_CHAR_PLAYING_ANIM(Ped ped, char* animSet, char* animName);
 
 ### Arguments
 - **Ped:** ped
-- **char\*:** animSet
-- **char\*:** animName
+- **char*:** animSet
+- **char*:** animName
 
 ### Results
 - **boolean**

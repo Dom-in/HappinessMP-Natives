@@ -9,8 +9,7 @@ bool IS_NETWORK_PLAYER_ACTIVE(uint playerIndex);
 ### Arguments
 - **uint:** playerIndex
 
-### Returns
+### Results
 - **bool**
 
 ## Description
-Returns true if a player in the slot specified by playerIndex is currently in the game. 

@@ -8,8 +8,8 @@ void ADD_LINE_TO_MOBILE_PHONE_CALL(int speakerNumber, char* context, char* subti
 
 ### Arguments
 - **int:** speakerNumber
-- **char\*:** context
-- **char\*:** subtitle
+- **char*:** context
+- **char*:** subtitle
 
 ### Results
 

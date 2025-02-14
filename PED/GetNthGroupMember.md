@@ -11,6 +11,6 @@ void GET_NTH_GROUP_MEMBER(int group, int n, Ped* ped);
 - **int:** n
 
 ### Results
-- **Ped\*:** ped
+- **Ped*:** ped
 
 ## Description

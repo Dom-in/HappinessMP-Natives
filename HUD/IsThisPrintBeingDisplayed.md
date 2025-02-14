@@ -7,11 +7,11 @@ bool IS_THIS_PRINT_BEING_DISPLAYED(char* textLabel, int extraParamsFlag, char* s
 ```
 
 ### Arguments
-- **char\*:** textLabel
+- **char*:** textLabel
 - **int:** extraParamsFlag
-- **char\*:** subStringTextLabel
-- **char\*:** literalString1
-- **char\*:** literalString2
+- **char*:** subStringTextLabel
+- **char*:** literalString1
+- **char*:** literalString2
 - **int:** firstNumberToInsert
 - **int:** secondNumberToInsert
 - **int:** thirdNumberToInsert

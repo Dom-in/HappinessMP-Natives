@@ -10,6 +10,6 @@ void GET_ROOM_KEY_FROM_PICKUP(int pickupIndex, int* roomKey);
 - **int:** pickupIndex
 
 ### Results
-- **int\*:** roomKey
+- **int*:** roomKey
 
 ## Description

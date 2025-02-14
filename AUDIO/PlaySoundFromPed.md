@@ -8,7 +8,7 @@ void PLAY_SOUND_FROM_PED(int SoundId, char* SoundName, Ped ped);
 
 ### Arguments
 - **int:** SoundId
-- **char\*:** SoundName
+- **char*:** SoundName
 - **Ped:** ped
 
 ### Results

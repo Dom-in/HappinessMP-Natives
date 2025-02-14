@@ -16,6 +16,6 @@ void GET_RANDOM_CAR_FRONT_BUMPER_IN_SPHERE_NO_SAVE(float x, float y, float z, fl
 - **boolean:** flag2
 
 ### Results
-- **int\*:** handle
+- **int*:** handle
 
 ## Description

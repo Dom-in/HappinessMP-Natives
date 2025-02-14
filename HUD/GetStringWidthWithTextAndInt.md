@@ -7,8 +7,8 @@ float GET_STRING_WIDTH_WITH_TEXT_AND_INT(char* gxtname, char* gxtnamenext, int v
 ```
 
 ### Arguments
-- **char\*:** gxtname
-- **char\*:** gxtnamenext
+- **char*:** gxtname
+- **char*:** gxtnamenext
 - **int:** val
 
 ### Results

@@ -7,7 +7,7 @@ boolean IS_STRING_NULL(char* str);
 ```
 
 ### Arguments
-- **char\*:** str
+- **char*:** str
 
 ### Results
 - **boolean**

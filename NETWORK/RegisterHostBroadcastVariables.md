@@ -7,7 +7,7 @@ void REGISTER_HOST_BROADCAST_VARIABLES(void* vars, int size, int);
 ```
 
 ### Arguments
-- **void\*:** vars
+- **void*:** vars
 - **int:** size
 - **int**
 

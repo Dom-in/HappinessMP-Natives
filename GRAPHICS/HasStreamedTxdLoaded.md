@@ -7,7 +7,7 @@ bool HAS_STREAMED_TXD_LOADED(char* txdName);
 ```
 
 ### Arguments
-- **char\*:** txdName
+- **char*:** txdName
 
 ### Results
 - **bool**

@@ -10,8 +10,17 @@ void GET_CHAR_COORDINATES(int charIndex, float* pX, float* pY, float* pZ);
 - **int:** charIndex
 
 ### Results
-- **float\*:** pX
-- **float\*:** pY
-- **float\*:** pZ
+- **float*:** pX
+- **float*:** pY
+- **float*:** pZ
 
 ## Description
+Allows you to get the coordinates of the player
+
+```lua
+Game.GetCharCoordinates(Game.GetPlayerChar(Game.GetPlayerId()))
+```
+
+```squirrel
+Game.GetCharCoordinates(Game.GetPlayerChar(Game.GetPlayerId()));
+```

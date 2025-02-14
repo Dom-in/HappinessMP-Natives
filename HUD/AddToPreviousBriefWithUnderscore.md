@@ -7,7 +7,7 @@ void ADD_TO_PREVIOUS_BRIEF_WITH_UNDERSCORE(char* gxtentry);
 ```
 
 ### Arguments
-- **char\*:** gxtentry
+- **char*:** gxtentry
 
 ### Results
 

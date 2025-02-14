@@ -8,7 +8,7 @@ void SET_PHONE_HUD_ITEM(int id, char* gxttext, int);
 
 ### Arguments
 - **int:** id
-- **char\*:** gxttext
+- **char*:** gxttext
 - **int**
 
 ### Results

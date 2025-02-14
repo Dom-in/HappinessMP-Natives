@@ -7,7 +7,7 @@ int START_PTFX_ON_OBJ_BONE(char* fxName, int objectIndex, float posX, float posY
 ```
 
 ### Arguments
-- **char\*:** fxName
+- **char*:** fxName
 - **int:** objectIndex
 - **float:** posX
 - **float:** posY

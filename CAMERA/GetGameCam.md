@@ -9,6 +9,6 @@ void GET_GAME_CAM(Camera* camera);
 ### Arguments
 
 ### Results
-- **Camera\*:** camera
+- **Camera*:** camera
 
 ## Description

@@ -8,7 +8,7 @@ void SET_CHAR_GESTURE_GROUP(Ped ped, char* AnimGroup);
 
 ### Arguments
 - **Ped:** ped
-- **char\*:** AnimGroup
+- **char*:** AnimGroup
 
 ### Results
 

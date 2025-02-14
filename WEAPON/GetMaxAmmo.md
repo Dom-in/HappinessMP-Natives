@@ -12,6 +12,6 @@ boolean GET_MAX_AMMO(Ped ped, uint weapon, uint* pMaxAmmo);
 
 ### Results
 - **boolean**
-- **uint\*:** pMaxAmmo
+- **uint*:** pMaxAmmo
 
 ## Description

@@ -10,6 +10,6 @@ void GET_KEY_FOR_DUMMY_CHAR_IN_ROOM(Ped ped, int* room);
 - **Ped:** ped
 
 ### Results
-- **int\*:** room
+- **int*:** room
 
 ## Description

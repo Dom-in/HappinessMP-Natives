@@ -13,9 +13,9 @@ boolean GET_NEXT_CLOSEST_CAR_NODE_FAVOUR_DIRECTION(float x, float y, float z, fl
 
 ### Results
 - **boolean**
-- **float\*:** pX
-- **float\*:** pY
-- **float\*:** pZ
-- **float\*:** direction
+- **float*:** pX
+- **float*:** pY
+- **float*:** pZ
+- **float*:** direction
 
 ## Description

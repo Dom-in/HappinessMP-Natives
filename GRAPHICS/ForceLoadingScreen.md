@@ -9,6 +9,13 @@ void FORCE_LOADING_SCREEN(boolean force);
 ### Arguments
 - **boolean:** force
 
-### Results
-
 ## Description
+Forces the loading screen to load
+
+```lua
+Game.ForceLoadingScreen(false)
+```
+
+```squirrel
+Game.ForceLoadingScreen(false);
+```

@@ -13,6 +13,6 @@ void GET_DISTANCE_BETWEEN_COORDS_2D(float x1, float y1, float x2, float y2, floa
 - **float:** y2
 
 ### Results
-- **float\*:** pDist
+- **float*:** pDist
 
 ## Description

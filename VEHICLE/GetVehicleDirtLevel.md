@@ -10,6 +10,6 @@ void GET_VEHICLE_DIRT_LEVEL(Vehicle vehicle, float* pIntensity);
 - **Vehicle:** vehicle
 
 ### Results
-- **float\*:** pIntensity
+- **float*:** pIntensity
 
 ## Description

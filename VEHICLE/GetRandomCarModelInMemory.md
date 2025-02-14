@@ -10,7 +10,7 @@ void GET_RANDOM_CAR_MODEL_IN_MEMORY(boolean MustIncludeSpecialModels, uint* pHas
 - **boolean:** MustIncludeSpecialModels
 
 ### Results
-- **uint\*:** pHash
-- **int\*:** pErrorId
+- **uint*:** pHash
+- **int*:** pErrorId
 
 ## Description

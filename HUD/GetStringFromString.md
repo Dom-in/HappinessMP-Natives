@@ -7,7 +7,7 @@ char* GET_STRING_FROM_STRING(char* str, int startsymb, int endsymb);
 ```
 
 ### Arguments
-- **char\*:** str
+- **char*:** str
 - **int:** startsymb
 - **int:** endsymb
 

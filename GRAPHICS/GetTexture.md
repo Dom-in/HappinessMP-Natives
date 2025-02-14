@@ -8,7 +8,7 @@ int GET_TEXTURE(uint, char* textureName);
 
 ### Arguments
 - **uint**
-- **char\*:** textureName
+- **char*:** textureName
 
 ### Results
 - **int**

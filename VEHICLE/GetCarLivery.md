@@ -10,6 +10,6 @@ void GET_CAR_LIVERY(Car car, int* livery);
 - **Car:** car
 
 ### Results
-- **int\*:** livery
+- **int*:** livery
 
 ## Description

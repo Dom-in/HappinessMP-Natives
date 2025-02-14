@@ -8,7 +8,7 @@ void ATTACH_ANIMS_TO_MODEL(uint model, char* anims);
 
 ### Arguments
 - **uint:** model
-- **char\*:** anims
+- **char*:** anims
 
 ### Results
 

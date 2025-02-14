@@ -9,7 +9,7 @@ void GET_CURRENT_DATE(uint* day, uint* month);
 ### Arguments
 
 ### Results
-- **uint\*:** day
-- **uint\*:** month
+- **uint*:** day
+- **uint*:** month
 
 ## Description

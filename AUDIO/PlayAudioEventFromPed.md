@@ -7,7 +7,7 @@ void PLAY_AUDIO_EVENT_FROM_PED(char* name, Ped ped);
 ```
 
 ### Arguments
-- **char\*:** name
+- **char*:** name
 - **Ped:** ped
 
 ### Results

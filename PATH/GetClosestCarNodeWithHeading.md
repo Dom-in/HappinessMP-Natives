@@ -13,10 +13,10 @@ bool GET_CLOSEST_CAR_NODE_WITH_HEADING(float x, float y, float z, float* outX, f
 
 ### Results
 - **bool**
-- **float\*:** outX
-- **float\*:** outY
-- **float\*:** outZ
-- **float\*:** outHeading
+- **float*:** outX
+- **float*:** outY
+- **float*:** outZ
+- **float*:** outHeading
 
 ## Description
 Will return if can the closest car node with a heading, to a coord.

@@ -7,7 +7,7 @@ void NETWORK_STORE_GAME_CONFIG(void* gameConfig);
 ```
 
 ### Arguments
-- **void\*:** gameConfig
+- **void*:** gameConfig
 
 ### Results
 

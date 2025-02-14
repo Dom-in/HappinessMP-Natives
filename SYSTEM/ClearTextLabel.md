@@ -7,7 +7,7 @@ void CLEAR_TEXT_LABEL(char* label);
 ```
 
 ### Arguments
-- **char\*:** label
+- **char*:** label
 
 ### Results
 

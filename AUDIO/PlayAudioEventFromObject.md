@@ -7,7 +7,7 @@ void PLAY_AUDIO_EVENT_FROM_OBJECT(char* EventName, Object obj);
 ```
 
 ### Arguments
-- **char\*:** EventName
+- **char*:** EventName
 - **Object:** obj
 
 ### Results

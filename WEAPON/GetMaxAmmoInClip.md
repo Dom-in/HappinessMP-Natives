@@ -11,6 +11,6 @@ void GET_MAX_AMMO_IN_CLIP(Ped ped, uint weapon, uint* pMaxAmmo);
 - **uint:** weapon
 
 ### Results
-- **uint\*:** pMaxAmmo
+- **uint*:** pMaxAmmo
 
 ## Description

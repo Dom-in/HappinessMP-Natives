@@ -10,6 +10,6 @@ void STORE_CAR_CHAR_IS_IN_NO_SAVE(Ped ped, Car* car);
 - **Ped:** ped
 
 ### Results
-- **Car\*:** car
+- **Car*:** car
 
 ## Description

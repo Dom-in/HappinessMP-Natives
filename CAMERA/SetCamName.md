@@ -8,7 +8,7 @@ void SET_CAM_NAME(int cam, char* camname);
 
 ### Arguments
 - **int:** cam
-- **char\*:** camname
+- **char*:** camname
 
 ### Results
 

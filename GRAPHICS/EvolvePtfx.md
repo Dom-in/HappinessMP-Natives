@@ -8,7 +8,7 @@ void EVOLVE_PTFX(uint ptfx, char* evolvetype, float val);
 
 ### Arguments
 - **uint:** ptfx
-- **char\*:** evolvetype
+- **char*:** evolvetype
 - **float:** val
 
 ### Results

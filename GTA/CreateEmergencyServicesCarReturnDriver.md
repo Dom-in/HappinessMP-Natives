@@ -14,8 +14,8 @@ bool CREATE_EMERGENCY_SERVICES_CAR_RETURN_DRIVER(int modelHashKey, float destina
 
 ### Results
 - **bool**
-- **int\*:** carIndex
-- **int\*:** charDriver
-- **int\*:** charPassenger
+- **int*:** carIndex
+- **int*:** charDriver
+- **int*:** charPassenger
 
 ## Description

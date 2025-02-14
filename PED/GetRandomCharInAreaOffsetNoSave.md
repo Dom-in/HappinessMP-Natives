@@ -15,6 +15,6 @@ void GET_RANDOM_CHAR_IN_AREA_OFFSET_NO_SAVE(float x, float y, float z, float sx,
 - **float:** sz
 
 ### Results
-- **Ped\*:** pPed
+- **Ped*:** pPed
 
 ## Description

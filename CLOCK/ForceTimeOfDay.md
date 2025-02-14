@@ -1,4 +1,5 @@
 # FORCE_TIME_OF_DAY
+- **Side:** Client
 
 ## Declaration
 ```cpp
@@ -10,6 +11,13 @@ void FORCE_TIME_OF_DAY(uint hour, uint minute);
 - **uint:** hour
 - **uint:** minute
 
-### Results
-
 ## Description
+Force change time of the day
+
+```lua
+Game.ForceTimeOfDay(10, 0)
+```
+
+```squirrel
+Game.ForceTimeOfDay(10, 0)
+```

@@ -1,4 +1,5 @@
 # DESTROY_CAM
+- **Side:** Client
 
 ## Declaration
 ```cpp
@@ -9,6 +10,13 @@ void DESTROY_CAM(Camera camera);
 ### Arguments
 - **Camera:** camera
 
-### Results
-
 ## Description
+Destroys camera
+
+```lua
+Game.DestroyCam(cam)
+```
+
+```squirrel
+Game.DestroyCam(cam);
+```

@@ -11,9 +11,9 @@ void DEBUG_OFF();
 This native function doesn't work.
 
 ```lua
--- (debug function removed in release build)
+debug function removed in release build
 ```
 
 ```squirrel
-// (debug function removed in release build)
+debug function removed in release build
 ```

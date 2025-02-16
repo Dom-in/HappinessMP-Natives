@@ -1,4 +1,5 @@
 # GET_CONSOLE_COMMAND
+- **Side:** Client
 
 ## Declaration
 ```cpp
@@ -11,4 +12,12 @@ void GET_CONSOLE_COMMAND();
 ### Results
 
 ## Description
-This native function doesn't work (debug function removed in release build).
+This native function doesn't work.
+
+```lua
+debug function removed in release build
+```
+
+```squirrel
+debug function removed in release build
+```

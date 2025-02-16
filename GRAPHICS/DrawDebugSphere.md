@@ -1,4 +1,5 @@
 # DRAW_DEBUG_SPHERE
+- **Side:** Client
 
 ## Declaration
 ```cpp
@@ -12,7 +13,13 @@ void DRAW_DEBUG_SPHERE(float x, float y, float z, float radius);
 - **float:** z
 - **float:** radius
 
-### Results
-
 ## Description
-This native function doesn't work (debug function removed in release build).
+This native function doesn't work.
+
+```lua
+debug function removed in release build
+```
+
+```squirrel
+debug function removed in release build
+```

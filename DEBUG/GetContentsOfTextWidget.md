@@ -1,4 +1,5 @@
 # GET_CONTENTS_OF_TEXT_WIDGET
+- **Side:** Client
 
 ## Declaration
 ```cpp
@@ -13,4 +14,12 @@ char* GET_CONTENTS_OF_TEXT_WIDGET(int textWidgetIndex);
 - **char***
 
 ## Description
-This native function doesn't work (debug function removed in release build).
+This native function doesn't work.
+
+```lua
+debug function removed in release build
+```
+
+```squirrel
+debug function removed in release build
+```

@@ -1,4 +1,5 @@
 # SET_PLAYER_INVISIBLE_TO_AI
+- **Side:** Client
 
 ## Declaration
 ```cpp
@@ -12,4 +13,12 @@ void SET_PLAYER_INVISIBLE_TO_AI(boolean set);
 ### Results
 
 ## Description
-This native function doesn't work (debug function removed in release build).
+This native function doesn't work.
+
+```lua
+debug function removed in release build
+```
+
+```squirrel
+debug function removed in release build
+```

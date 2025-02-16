@@ -1,4 +1,5 @@
 # SET_DEBUG_TEXT_VISIBLE
+- **Side:** Client
 
 ## Declaration
 ```cpp
@@ -9,7 +10,13 @@ void SET_DEBUG_TEXT_VISIBLE(bool visible);
 ### Arguments
 - **bool:** visible
 
-### Results
-
 ## Description
-This native function doesn't work (debug function removed in release build).
+This native function doesn't work.
+
+```lua
+debug function removed in release build
+```
+
+```squirrel
+debug function removed in release build
+```

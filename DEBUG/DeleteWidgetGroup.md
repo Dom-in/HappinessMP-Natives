@@ -1,4 +1,5 @@
 # DELETE_WIDGET_GROUP
+- **Side:** Client
 
 ## Declaration
 ```cpp
@@ -9,7 +10,13 @@ void DELETE_WIDGET_GROUP(int widgetGroupIndex);
 ### Arguments
 - **int:** widgetGroupIndex
 
-### Results
-
 ## Description
-This native function doesn't work (debug function removed in release build).
+This native function doesn't work.
+
+```lua
+debug function removed in release build
+```
+
+```squirrel
+debug function removed in release build
+```

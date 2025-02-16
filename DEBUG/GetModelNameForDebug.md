@@ -1,4 +1,5 @@
 # GET_MODEL_NAME_FOR_DEBUG
+- **Side:** Client
 
 ## Declaration
 ```cpp
@@ -13,4 +14,12 @@ char* GET_MODEL_NAME_FOR_DEBUG(uint model);
 - **char***
 
 ## Description
-This native function doesn't work (debug function removed in release build).
+This native function doesn't work.
+
+```lua
+debug function removed in release build
+```
+
+```squirrel
+debug function removed in release build
+```

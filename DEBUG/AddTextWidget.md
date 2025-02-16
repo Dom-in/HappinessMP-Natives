@@ -1,4 +1,5 @@
 # ADD_TEXT_WIDGET
+- **Side:** Client
 
 ## Declaration
 ```cpp
@@ -13,4 +14,12 @@ int ADD_TEXT_WIDGET(char* title);
 - **int:** textWidgetIndex
 
 ## Description
-This native function doesn't work (debug function removed in release build).
+This native function doesn't work.
+
+```lua
+debug function removed in release build
+```
+
+```squirrel
+debug function removed in release build
+```

@@ -1,4 +1,5 @@
 # DOES_WIDGET_GROUP_EXIST
+- **Side:** Client
 
 ## Declaration
 ```cpp
@@ -13,4 +14,12 @@ bool DOES_WIDGET_GROUP_EXIST(int widgetGroupIndex);
 - **bool**
 
 ## Description
-This native function doesn't work (debug function removed in release build).
+This native function doesn't work.
+
+```lua
+debug function removed in release build
+```
+
+```squirrel
+debug function removed in release build
+```

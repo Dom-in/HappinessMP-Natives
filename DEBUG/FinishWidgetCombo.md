@@ -1,4 +1,5 @@
 # FINISH_WIDGET_COMBO
+- **Side:** Client
 
 ## Declaration
 ```cpp
@@ -14,4 +15,12 @@ void FINISH_WIDGET_COMBO(char* comboName, int& variable);
 - **int&:** variable
 
 ## Description
-This native function doesn't work (debug function removed in release build).
+This native function doesn't work.
+
+```lua
+debug function removed in release build
+```
+
+```squirrel
+debug function removed in release build
+```

@@ -1,4 +1,5 @@
 # INIT_DEBUG_WIDGETS
+- **Side:** Client
 
 ## Declaration
 ```cpp
@@ -6,9 +7,13 @@
 void INIT_DEBUG_WIDGETS();
 ```
 
-### Arguments
-
-### Results
-
 ## Description
-This native function doesn't work (debug function removed in release build).
+This native function doesn't work.
+
+```lua
+debug function removed in release build
+```
+
+```squirrel
+debug function removed in release build
+```

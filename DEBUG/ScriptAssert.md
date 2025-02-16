@@ -1,4 +1,5 @@
 # SCRIPT_ASSERT
+- **Side:** Client
 
 ## Declaration
 ```cpp
@@ -9,7 +10,13 @@ void SCRIPT_ASSERT(char* errorString);
 ### Arguments
 - **char*:** errorString
 
-### Results
-
 ## Description
-This native function doesn't work (debug function removed in release build).
+This native function doesn't work.
+
+```lua
+debug function removed in release build
+```
+
+```squirrel
+debug function removed in release build
+```

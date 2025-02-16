@@ -1,4 +1,5 @@
 # TAKE_SCREEN_SHOT
+- **Side:** Client
 
 ## Declaration
 ```cpp
@@ -11,4 +12,12 @@ void TAKE_SCREEN_SHOT();
 ### Results
 
 ## Description
-This native function doesn't work (debug function removed in release build).
+This native function doesn't work.
+
+```lua
+debug function removed in release build
+```
+
+```squirrel
+debug function removed in release build
+```

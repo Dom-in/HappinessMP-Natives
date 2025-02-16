@@ -1,4 +1,5 @@
 # ADD_WIDGET_FLOAT_SLIDER
+- **Side:** Client
 
 ## Declaration
 ```cpp
@@ -17,4 +18,12 @@ void ADD_WIDGET_FLOAT_SLIDER(char* name, float& variable, float min, float max, 
 - **float&:** variable
 
 ## Description
-This native function doesn't work (debug function removed in release build).
+This native function doesn't work.
+
+```lua
+debug function removed in release build
+```
+
+```squirrel
+debug function removed in release build
+```

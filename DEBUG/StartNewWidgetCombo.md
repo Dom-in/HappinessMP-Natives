@@ -1,4 +1,5 @@
 # START_NEW_WIDGET_COMBO
+- **Side:** Client
 
 ## Declaration
 ```cpp
@@ -6,9 +7,13 @@
 void START_NEW_WIDGET_COMBO();
 ```
 
-### Arguments
-
-### Results
-
 ## Description
-This native function doesn't work (debug function removed in release build).
+This native function doesn't work.
+
+```lua
+debug function removed in release build
+```
+
+```squirrel
+debug function removed in release build
+```

@@ -1,4 +1,5 @@
 # ADD_WIDGET_FLOAT_READ_ONLY
+- **Side:** Client
 
 ## Declaration
 ```cpp
@@ -14,4 +15,12 @@ void ADD_WIDGET_FLOAT_READ_ONLY(char* name, float& variable);
 - **float&:** variable
 
 ## Description
-This native function doesn't work (debug function removed in release build).
+This native function doesn't work.
+
+```lua
+debug function removed in release build
+```
+
+```squirrel
+debug function removed in release build
+```

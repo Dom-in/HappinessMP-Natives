@@ -1,4 +1,5 @@
 # SAVE_STRING_TO_DEBUG_FILE
+- **Side:** Client
 
 ## Declaration
 ```cpp
@@ -9,7 +10,13 @@ void SAVE_STRING_TO_DEBUG_FILE(char* stringToSave);
 ### Arguments
 - **char*:** stringToSave
 
-### Results
-
 ## Description
-This native function doesn't work (debug function removed in release build).
+This native function doesn't work.
+
+```lua
+debug function removed in release build
+```
+
+```squirrel
+debug function removed in release build
+```

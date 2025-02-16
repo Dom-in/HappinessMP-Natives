@@ -1,4 +1,5 @@
 # CREATE_WIDGET_GROUP
+- **Side:** Client
 
 ## Declaration
 ```cpp
@@ -13,4 +14,12 @@ int CREATE_WIDGET_GROUP(char* name);
 - **int:** widgetGroupIndex
 
 ## Description
-This native function doesn't work (debug function removed in release build).
+This native function doesn't work.
+
+```lua
+debug function removed in release build
+```
+
+```squirrel
+debug function removed in release build
+```

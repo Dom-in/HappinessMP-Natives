@@ -1,4 +1,5 @@
 # FREEZE_CAR_POSITION
+- **Side:** Client
 
 ## Declaration
 ```cpp
@@ -10,6 +11,19 @@ void FREEZE_CAR_POSITION(Vehicle vehicle, boolean frozen);
 - **Vehicle:** vehicle
 - **boolean:** frozen
 
-### Results
-
 ## Description
+Freezes the car in position it is now
+
+```lua
+local playerId = Game.GetPlayerId()
+local playerChar = Game.GetPlayerChar(playerId)
+local playerCar = Game.GetCarCharIsUsing(playerChar)
+Game.FreezeCarPosition(playerCar, true)
+```
+
+```squirrel
+local playerId = Game.GetPlayerId();
+local playerChar = Game.GetPlayerChar(playerId);
+local playerCar = Game.GetCarCharIsUsing(playerChar);
+Game.FreezeCarPosition(playerCar, true);
+```

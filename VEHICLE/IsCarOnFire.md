@@ -1,4 +1,5 @@
 # IS_CAR_ON_FIRE
+- **Side:** Client
 
 ## Declaration
 ```cpp
@@ -13,3 +14,18 @@ boolean IS_CAR_ON_FIRE(Vehicle vehicle);
 - **boolean**
 
 ## Description
+Check if vehicle is on fire
+
+```lua
+local playerId = Game.GetPlayerId()
+local playerChar = Game.GetPlayerChar(playerId)
+local playerCar = Game.GetCarCharIsUsing(playerChar)
+Game.IsCarOnFire(playerCar)
+```
+
+```squirrel
+local playerId = Game.GetPlayerId();
+local playerChar = Game.GetPlayerChar(playerId);
+local playerCar = Game.GetCarCharIsUsing(playerChar);
+Game.IsCarOnFire(playerCar);
+```

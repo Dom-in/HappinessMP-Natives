@@ -1,4 +1,5 @@
 # SET_ALL_MOTION_CONTROL_PREFERENCES_ON_OFF
+- **Side:** Client
 
 ## Declaration
 ```cpp
@@ -6,9 +7,13 @@
 void SET_ALL_MOTION_CONTROL_PREFERENCES_ON_OFF();
 ```
 
-### Arguments
-
-### Results
-
 ## Description
-This native function doesn't work (nullsub).
+This native function doesn't work.
+
+```lua
+nullsub
+```
+
+```squirrel
+nullsub
+```

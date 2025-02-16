@@ -1,4 +1,5 @@
 # SET_CAR_HAS_BEEN_CREATED_IN_INTERIOR
+- **Side:** Client
 
 ## Declaration
 ```cpp
@@ -6,9 +7,13 @@
 void SET_CAR_HAS_BEEN_CREATED_IN_INTERIOR();
 ```
 
-### Arguments
-
-### Results
-
 ## Description
-This native function doesn't work (nullsub).
+This native function doesn't work.
+
+```lua
+nullsub
+```
+
+```squirrel
+nullsub
+```

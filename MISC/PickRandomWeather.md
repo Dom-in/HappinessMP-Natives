@@ -1,4 +1,5 @@
 # PICK_RANDOM_WEATHER
+- **Side:** Client
 
 ## Declaration
 ```cpp
@@ -6,9 +7,13 @@
 void PICK_RANDOM_WEATHER();
 ```
 
-### Arguments
-
-### Results
-
 ## Description
-This native function doesn't work (nullsub).
+This native function doesn't work.
+
+```lua
+nullsub
+```
+
+```squirrel
+nullsub
+```

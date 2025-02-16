@@ -1,4 +1,5 @@
 # STOP_RECORDING_CAR
+- **Side:** Client
 
 ## Declaration
 ```cpp
@@ -6,9 +7,13 @@
 void STOP_RECORDING_CAR();
 ```
 
-### Arguments
-
-### Results
-
 ## Description
-This native function doesn't work (nullsub).
+This native function doesn't work.
+
+```lua
+nullsub
+```
+
+```squirrel
+nullsub
+```

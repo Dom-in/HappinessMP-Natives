@@ -1,4 +1,5 @@
 # ENABLE_XBOX_SCREEN_SAVER
+- **Side:** Client
 
 ## Declaration
 ```cpp
@@ -6,9 +7,13 @@
 void ENABLE_XBOX_SCREEN_SAVER();
 ```
 
-### Arguments
-
-### Results
-
 ## Description
-This native function doesn't work (nullsub).
+This native function doesn't work.
+
+```lua
+nullsub
+```
+
+```squirrel
+nullsub
+```

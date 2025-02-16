@@ -1,4 +1,5 @@
 # RENDER_RADIOHUD_SPRITE_IN_LOBBY
+- **Side:** Client
 
 ## Declaration
 ```cpp
@@ -6,9 +7,13 @@
 void RENDER_RADIOHUD_SPRITE_IN_LOBBY();
 ```
 
-### Arguments
-
-### Results
-
 ## Description
-This native function doesn't work (nullsub).
+This native function doesn't work.
+
+```lua
+nullsub
+```
+
+```squirrel
+nullsub
+```

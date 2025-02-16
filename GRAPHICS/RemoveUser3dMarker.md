@@ -1,4 +1,5 @@
 # REMOVE_USER_3D_MARKER
+- **Side:** Client
 
 ## Declaration
 ```cpp
@@ -9,7 +10,13 @@ void REMOVE_USER_3D_MARKER(uint marker);
 ### Arguments
 - **uint:** marker
 
-### Results
-
 ## Description
-This native function doesn't work (nullsub).
+This native function doesn't work.
+
+```lua
+nullsub
+```
+
+```squirrel
+nullsub
+```

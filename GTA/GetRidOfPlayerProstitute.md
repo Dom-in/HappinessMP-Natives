@@ -1,4 +1,5 @@
 # GET_RID_OF_PLAYER_PROSTITUTE
+- **Side:** Client
 
 ## Declaration
 ```cpp
@@ -6,9 +7,13 @@
 void GET_RID_OF_PLAYER_PROSTITUTE();
 ```
 
-### Arguments
-
-### Results
-
 ## Description
-This native function doesn't work (nullsub).
+This native function doesn't work.
+
+```lua
+nullsub
+```
+
+```squirrel
+nullsub
+```

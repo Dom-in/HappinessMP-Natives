@@ -1,4 +1,5 @@
 # CREATE_CAR_GENERATOR_WITH_PLATE
+- **Side:** Client
 
 ## Declaration
 ```cpp
@@ -6,9 +7,13 @@
 void CREATE_CAR_GENERATOR_WITH_PLATE();
 ```
 
-### Arguments
-
-### Results
-
 ## Description
-This native function doesn't work (nullsub).
+This native function doesn't work.
+
+```lua
+nullsub
+```
+
+```squirrel
+nullsub
+```

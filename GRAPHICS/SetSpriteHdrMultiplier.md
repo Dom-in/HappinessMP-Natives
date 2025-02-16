@@ -1,4 +1,5 @@
 # SET_SPRITE_HDR_MULTIPLIER
+- **Side:** Client
 
 ## Declaration
 ```cpp
@@ -9,7 +10,13 @@ void SET_SPRITE_HDR_MULTIPLIER(float multiplier);
 ### Arguments
 - **float:** multiplier
 
-### Results
-
 ## Description
-This native function doesn't work (nullsub).
+This native function doesn't work.
+
+```lua
+nullsub
+```
+
+```squirrel
+nullsub
+```

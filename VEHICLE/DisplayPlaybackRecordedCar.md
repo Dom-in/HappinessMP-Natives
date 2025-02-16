@@ -1,4 +1,5 @@
 # DISPLAY_PLAYBACK_RECORDED_CAR
+- **Side:** Client
 
 ## Declaration
 ```cpp
@@ -6,9 +7,13 @@
 void DISPLAY_PLAYBACK_RECORDED_CAR();
 ```
 
-### Arguments
-
-### Results
-
 ## Description
-This native function doesn't work (nullsub).
+This native function doesn't work.
+
+```lua
+nullsub
+```
+
+```squirrel
+nullsub
+```

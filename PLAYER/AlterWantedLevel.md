@@ -1,4 +1,5 @@
 # ALTER_WANTED_LEVEL
+- **Side:** Client
 
 ## Declaration
 ```cpp
@@ -10,6 +11,15 @@ void ALTER_WANTED_LEVEL(Player playerIndex, uint level);
 - **Player:** playerIndex
 - **uint:** level
 
-### Results
-
 ## Description
+Alters player wanted level
+
+```lua
+local playerId = Game.GetPlayerId();
+Game.AlterWantedLevel(playerId, 0)
+```
+
+```squirrel
+local playerId = Game.GetPlayerId();
+Game.AlterWantedLevel(playerId, 0);
+```
